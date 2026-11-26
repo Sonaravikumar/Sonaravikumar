@@ -126,6 +126,18 @@ Backend APIs for AI-powered marketing content generation, post ideation, and aut
 - AI for India 2.0 — GUVI (August 2023)
 - HTML Training — Spoken Tutorial Project, IIT Bombay (June 2021)
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&icon_color=E6A6C7&text_color=E9E2F2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonaravikumar&layout=compact&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sonaravikumar&hide_border=true&background=171321&ring=C9A7F7&fire=E6A6C7&currStreakLabel=C9A7F7&sideLabels=E9E2F2&dates=AAA0B8)
+
+</div>
+
 ## Let's Connect
 
 I am always happy to connect with developers and teams building thoughtful products in backend engineering and AI.
@@ -133,3 +145,9 @@ I am always happy to connect with developers and teams building thoughtful produ
 [![Email](https://img.shields.io/badge/Email-Contact-D98FB3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonaravikumar2872@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B7EDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-28243A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sonaravikumar&label=Profile%20Views&color=C9A7F7&style=flat-square)
+
+</div>
