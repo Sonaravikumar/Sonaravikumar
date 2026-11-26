@@ -115,11 +115,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonaravikumar/Sonaravikumar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonaravikumar/Sonaravikumar/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Sonaravikumar/Sonaravikumar/output/github-contribution-grid-snake.svg">
-</picture>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&bg_color=ffffff&color=57606a&line=8250df&point=24292f&area=true&area_color=8250df&hide_border=true)
 
 </div>
 
