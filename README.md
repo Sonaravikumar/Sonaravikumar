@@ -5,7 +5,7 @@
 
   **Backend & AI Developer** · Madurai, Tamil Nadu, India
 
-  [![LinkedIn icon](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
   [![GitHub icon](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonaravikumar)
   [![Portfolio icon](https://img.shields.io/badge/-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
 </div>
