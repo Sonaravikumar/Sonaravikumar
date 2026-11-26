@@ -115,7 +115,11 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C9A7F7&center=true&vCenter=true&width=700&lines=Building+backend+systems;Creating+AI-powered+applications;Improving+system+reliability)](https://git.io/typing-svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&icon_color=E6A6C7&text_color=E9E2F2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonaravikumar&layout=compact&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&bg_color=171321&color=C9A7F7&line=C9A7F7&point=E9E2F2&area=true&area_color=C9A7F7&hide_border=true)
 
 </div>
 
