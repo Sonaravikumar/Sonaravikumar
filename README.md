@@ -12,6 +12,10 @@
   [Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Phone](tel:+917305153529)
 </div>
 
+<div align="center">
+  <img src="assets/sparkle-divider.gif" alt="Animated blue sparkle divider" width="100%">
+</div>
+
 ## About Me
 
 I am an AI & Backend Developer with over a year of experience building dependable REST APIs, backend systems, automation platforms, and AI-powered applications.
@@ -130,7 +134,7 @@ Backend APIs for AI-powered marketing content generation, post ideation, and aut
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&icon_color=E6A6C7&text_color=E9E2F2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonaravikumar&layout=compact&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
 
