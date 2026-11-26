@@ -114,6 +114,8 @@ Backend developer building scalable APIs and AI-integrated systems since January
 ## 📈 GitHub activity
 
 <div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sonaravikumar&theme=tokyonight&no-frame=true&margin-w=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&custom_title=Contribution%20Activity&height=350&bg_color=171321&color=E9E2F2&line=C9A7F7&point=ffffff&area=true&area_color=C9A7F7&hide_border=true)
 
