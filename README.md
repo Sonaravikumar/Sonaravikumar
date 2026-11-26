@@ -12,9 +12,6 @@
   [Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Phone](tel:+917305153529)
 </div>
 
-<div align="center">
-  <img src="assets/sparkle-divider.gif" alt="Animated blue sparkle divider" width="100%">
-</div>
 
 ## About Me
 
