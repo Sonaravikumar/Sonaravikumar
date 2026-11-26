@@ -10,7 +10,7 @@
   [![Portfolio icon](https://img.shields.io/badge/-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
 </div>
 
-##👋 About me
+## 👋 About me
 
 Backend developer building scalable APIs and AI-integrated systems since January 2025. I work mostly with Node.js, Express.js, MongoDB and RabbitMQ, and I integrate third-party services such as OpenAI, WhatsApp Cloud API and Razorpay.
 
