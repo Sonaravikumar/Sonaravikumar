@@ -115,10 +115,9 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Sonaravikumar?label=Followers&style=for-the-badge&logo=github)](https://github.com/Sonaravikumar?tab=followers)
 [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSonaravikumar&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github)](https://github.com/Sonaravikumar?tab=repositories)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&bg_color=ffffff&color=57606a&line=8250df&point=24292f&area=true&area_color=8250df&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&custom_title=Contribution%20Activity&height=350&bg_color=171321&color=E9E2F2&line=C9A7F7&point=ffffff&area=true&area_color=C9A7F7&hide_border=true)
 
 </div>
 
@@ -126,4 +125,4 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 Open to backend engineering, platform engineering and applied AI opportunities.
 
-[Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Portfolio](https://sonarportfolio.netlify.app/) · [Phone](tel:+917305153529)
+[Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Portfolio](https://sonarportfolio.netlify.app/)
