@@ -10,7 +10,7 @@
   [![Portfolio icon](https://img.shields.io/badge/-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
 </div>
 
-## About me
+##👋 About me
 
 Backend developer building scalable APIs and AI-integrated systems since January 2025. I work mostly with Node.js, Express.js, MongoDB and RabbitMQ, and I integrate third-party services such as OpenAI, WhatsApp Cloud API and Razorpay.
 
@@ -18,7 +18,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - Interested in backend architecture, applied AI, asynchronous processing and scalable services
 - Currently contributing to **Kellygang.AI**, an AI movie creation platform
 
-## Tech stack
+## 🛠️ Tech stack
 
 **Backend:** Node.js · Express.js · JavaScript · TypeScript
 
@@ -30,7 +30,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,postgres,redis,rabbitmq,react,git,postman)](https://skillicons.dev)
 
-## What I do at work
+## 💼 What I do at work
 
 - Build and maintain REST APIs with Node.js, Express.js and MongoDB
 - Implement JWT authentication and role-based access control (RBAC) for protected APIs
@@ -40,7 +40,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - Integrate OpenAI, WhatsApp Cloud API and Razorpay
 - Investigate production issues and improve backend reliability and performance
 
-## Experience
+## 🚀 Experience
 
 ### Software Developer, Backend · Zevotria
 
@@ -61,7 +61,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - Practiced React.js fundamentals and built reusable UI components
 - Assisted with debugging and feature enhancements
 
-## Featured projects
+## 📌 Featured projects
 
 ### CareerPro: AI-powered career management platform
 
@@ -97,21 +97,21 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - **Solution:** Backend APIs for AI-powered marketing content generation, post ideation and automation workflows.
 - **Links:** [API demo](https://aigenstudio-server.onrender.com/) · [GitHub repository](https://github.com/Sonaravikumar/aigenstudio_server)
 
-## Education
+## 🎓 Education
 
 | Qualification | Institution | Year | Result |
 |---|---|---:|---:|
 | M.Sc. Computer Science | Thiagarajar College of Arts and Science | 2024 | 8.6 CGPA |
 | B.Sc. Information Technology | Nadar Mahajana Sangam S. Vellaichamy Nadar College | 2022 | 8.3 CGPA |
 
-## Certifications
+## 📜 Certifications
 
 - Getting Started with NodeJS, Simplilearn SkillUp (June 2025)
 - Introduction to Express JS, Simplilearn SkillUp (June 2025)
 - AI for India 2.0, GUVI (August 2023)
 - HTML Training, Spoken Tutorial Project, IIT Bombay (June 2021)
 
-## GitHub activity
+## 📈 GitHub activity
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 </div>
 
-## Let's connect
+## 🤝 Let's connect
 
 Open to backend engineering, platform engineering and applied AI opportunities.
 
