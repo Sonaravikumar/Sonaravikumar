@@ -5,9 +5,9 @@
 
   **Backend & AI Developer** · Madurai, Tamil Nadu, India
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonaravikumar)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
+  [![LinkedIn icon](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
+  [![GitHub icon](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonaravikumar)
+  [![Portfolio icon](https://img.shields.io/badge/-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
 </div>
 
 ## About me
@@ -70,7 +70,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - **My role:** Backend design, authentication, subscriptions and usage tracking.
 - **Stack:** Node.js · Express.js · MongoDB · OpenAI API
 - **Outcome:** ~10 daily active users; 50+ resumes generated
-- **Links:** [Live demo](https://careerpro-ai.com/) 
+- **Links:** [Live demo](https://careerpro-ai.com/)
 
 ### Inderact: WhatsApp Business automation platform
 
