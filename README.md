@@ -115,7 +115,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&bg_color=ffffff&color=57606a&line=8250df&point=24292f&area=true&area_color=8250df&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&custom_title=Contribution%20Activity&height=350&bg_color=171321&color=E9E2F2&line=C9A7F7&point=ffffff&area=true&area_color=C9A7F7&hide_border=true)
 
 </div>
 
