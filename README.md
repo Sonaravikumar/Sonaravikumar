@@ -3,115 +3,92 @@
 
   # Sona Pandi
 
-  **AI & Backend Developer** · Madurai, Tamil Nadu, India
+  **Backend & AI developer** · Madurai, Tamil Nadu, India
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B7EDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-28243A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonaravikumar)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
-
-  [Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Phone](tel:+917305153529)
 </div>
 
+## About me
 
-## About Me
+Backend developer building scalable APIs and AI-integrated systems since January 2025. I work mostly with Node.js, Express.js, MongoDB and RabbitMQ, and I integrate third-party services such as OpenAI, WhatsApp Cloud API and Razorpay.
 
-I am an AI & Backend Developer with over a year of experience building dependable REST APIs, backend systems, automation platforms, and AI-powered applications.
+- Software Developer (Backend) at **Zevotria**
+- Interested in backend architecture, applied AI, asynchronous processing and scalable services
+- Currently contributing to **Kellygang.AI**, an AI movie creation platform
 
-- Software Developer — Backend at **Zevotria**
-- Experienced with Node.js, Express.js, MongoDB, RabbitMQ, and API integrations
-- Interested in backend architecture, applied AI, asynchronous processing, and scalable services
-- Continuously improving reliability, performance, security, and observability
+## Tech stack
 
-## Tech Stack
+**Backend:** Node.js · Express.js · JavaScript · TypeScript
 
-### Languages and Backend
+**Data and queues:** MongoDB · PostgreSQL · Redis · RabbitMQ
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+**Integrations:** OpenAI API · WhatsApp Cloud API · Razorpay · ElevenLabs
 
-### Databases, Caches, and Queues
+**Frontend and tools:** React · GrapesJS · HTML/CSS · Git · Postman · VS Code
 
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
-[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs,express,js,ts,mongodb,postgres,redis,rabbitmq,react,git,postman)](https://skillicons.dev)
 
-### AI, APIs, and Integrations
+## What I do at work
 
-[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://platform.openai.com/)
-[![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://developers.facebook.com/docs/whatsapp/cloud-api/)
-[![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)](https://razorpay.com/)
-[![ElevenLabs](https://img.shields.io/badge/ElevenLabs-111111?style=flat-square)](https://elevenlabs.io/)
-
-**Also experienced with:** GrapesJS, JWT, RBAC, webhooks, rate limiting, background jobs, and scheduled automation.
-
-### Frontend and Tools
-
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+- Build and maintain REST APIs with Node.js, Express.js and MongoDB
+- Implement JWT authentication and role-based access control (RBAC) for protected APIs
+- Design rate-limited API architectures to protect services from abusive traffic
+- Build asynchronous workflows with RabbitMQ, including retry and failure handling
+- Process webhooks, send email notifications and run scheduled campaign automation
+- Integrate OpenAI, WhatsApp Cloud API and Razorpay
+- Investigate production issues and improve backend reliability and performance
 
 ## Experience
 
-### Software Developer — Backend | Zevotria
-
+### Software Developer, Backend · Zevotria
 **January 2025 – Present** · Madurai, Tamil Nadu
 
-- Developed and maintained REST APIs with Node.js, Express.js, and MongoDB
-- Implemented authentication, authorization, and role-based access control
+- Developed and maintained REST APIs with Node.js, Express.js and MongoDB
+- Implemented authentication, authorization and RBAC
 - Designed rate-limited API architectures
 - Built asynchronous workflows with RabbitMQ
-- Integrated OpenAI, Meta WhatsApp Cloud API, and Razorpay
-- Developed webhook processing, email notifications, and scheduled campaign automation
-- Investigated production issues and improved backend reliability and performance
+- Integrated OpenAI, Meta WhatsApp Cloud API and Razorpay
+- Developed webhook processing, email notifications and scheduled campaign automation
+- Investigated production issues and improved backend reliability and performance <!-- add one concrete example, e.g. what broke, what you changed, the result -->
 
-### Frontend Intern | Lithi Info Tech
-
+### Frontend Intern · Lithi Info Tech
 **January 2024 – April 2024** · Madurai, Tamil Nadu
 
-- Practiced React.js fundamentals and reusable UI component development
+- Practiced React.js fundamentals and built reusable UI components
 - Assisted with debugging and feature enhancements
 
-## Featured Projects
+## Featured projects
 
-### CareerPro — AI-Powered Career Management Platform
+### CareerPro: AI-powered career management platform
+- **Problem:** Career tasks (resumes, LinkedIn, interview prep, job tracking) are scattered across separate tools.
+- **Solution:** Backend APIs for AI-assisted resume generation, LinkedIn optimization, interview preparation and job tracking.
+- **My role:** Backend design, authentication, subscriptions, usage tracking.
+- **Stack:** Node.js · Express.js · MongoDB · OpenAI API
+- **Outcome:** ~10 daily active users; 50+ resumes generated
+- **Links:** [Live demo](https://careerpro-ai.com/)
 
-Backend APIs for AI-assisted resume generation, LinkedIn optimization, interview preparation, and job tracking.
+### Inderact: WhatsApp Business automation platform
+- **Problem:** Businesses handle WhatsApp replies and campaigns manually.
+- **Solution:** Automated replies, campaign management and event-driven messaging workflows.
+- **My role:** Webhook processing, RabbitMQ background jobs, WhatsApp Cloud API integration.
+- **Stack:** WhatsApp Cloud API · RabbitMQ · Webhooks · Node.js
+- **Outcome:** Handles ~56 automated messages per day; campaign scheduling now runs automatically with no manual sending
 
-**Focus:** Node.js · Express.js · MongoDB · OpenAI API · Authentication · Subscriptions · Usage Tracking
-
-### Inderact — WhatsApp Business Automation Platform
-
-WhatsApp automation features including automated replies, campaign management, and event-driven messaging workflows.
-
-**Focus:** WhatsApp Cloud API · RabbitMQ · Webhooks · Background Processing
-
-### Kellygang.AI — AI Movie Creation Platform *(Ongoing)*
-
-Contributions to an AI-powered platform covering script generation, storyboards, and asset management.
-
-**Focus:** LLM integrations · Image generation · Audio generation · Video generation · Creative workflows
+### Kellygang.AI: AI movie creation platform *(ongoing)*
+- **Scope:** Script generation, storyboards and asset management.
+- **My role:** Contributions to LLM, image, audio and video generation integrations and creative workflows.
+- **Links:** [Live demo](https://kellygang.ai/)
 
 ### Website Builder Platform
+- **Solution:** No-code website creation, editing and publishing.
+- **Stack:** React.js · GrapesJS · Node.js · Express.js · MongoDB
+- **Links:** [GitHub repository](https://github.com/Sonaravikumar/website) · [Live demo](https://website-builder-2026.netlify.app)
 
-A no-code website builder with website creation, editing, and publishing capabilities.
-
-**Stack:** React.js · GrapesJS · Node.js · Express.js · MongoDB
-
-- [GitHub Repository](https://github.com/Sonaravikumar/website)
-- [Live Demo](https://website-builder-2026.netlify.app)
-
-### AI Gen Studio — AI Marketing Content Platform
-
-Backend APIs for AI-powered marketing content generation, post ideation, and automation workflows.
-
-- [API Demo](https://aigenstudio-server.onrender.com/)
+### AI Gen Studio: AI marketing content platform
+- **Solution:** Backend APIs for AI-powered marketing content generation, post ideation and automation workflows.
+- **Links:** [API demo](https://aigenstudio-server.onrender.com/) · [GitHub repository](https://github.com/Sonaravikumar/aigenstudio_server)
 
 ## Education
 
@@ -122,12 +99,12 @@ Backend APIs for AI-powered marketing content generation, post ideation, and aut
 
 ## Certifications
 
-- Getting Started with NodeJS — Simplilearn SkillUp (June 2025)
-- Introduction to Express JS — Simplilearn SkillUp (June 2025)
-- AI for India 2.0 — GUVI (August 2023)
-- HTML Training — Spoken Tutorial Project, IIT Bombay (June 2021)
+- Getting Started with NodeJS, Simplilearn SkillUp (June 2025)
+- Introduction to Express JS, Simplilearn SkillUp (June 2025)
+- AI for India 2.0, GUVI (August 2023)
+- HTML Training, Spoken Tutorial Project, IIT Bombay (June 2021)
 
-## GitHub Activity
+## GitHub activity
 
 <div align="center">
 
@@ -135,20 +112,10 @@ Backend APIs for AI-powered marketing content generation, post ideation, and aut
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonaravikumar&layout=compact&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sonaravikumar&hide_border=true&background=171321&ring=C9A7F7&fire=E6A6C7&currStreakLabel=C9A7F7&sideLabels=E9E2F2&dates=AAA0B8)
-
 </div>
 
-## Let's Connect
+## Let's connect
 
-I am always happy to connect with developers and teams building thoughtful products in backend engineering and AI.
+Open to backend engineering, platform engineering and applied AI opportunities.
 
-[![Email](https://img.shields.io/badge/Email-Contact-D98FB3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonaravikumar2872@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B7EDB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-28243A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sonaravikumar&label=Profile%20Views&color=C9A7F7&style=flat-square)
-
-</div>
+[Email](mailto:sonaravikumar2872@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonapandi-ravikumar) · [Portfolio](https://sonarportfolio.netlify.app/) · [Phone](tel:+917305153529)
