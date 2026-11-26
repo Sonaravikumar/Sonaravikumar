@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="assets/sona-animated-banner.gif" alt="Sona Pandi animated profile banner" width="100%">
+  <img src="assets/sona-animated-banner.gif" alt="Sona Pandi profile banner" width="100%">
 
   # Sona Pandi
 
-  **Backend & AI developer** · Madurai, Tamil Nadu, India
+  **Backend & AI Developer** · Madurai, Tamil Nadu, India
 
-    <a href="https://www.linkedin.com/in/sonapandi-ravikumar"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Sonaravikumar"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://sonarportfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=chrome" width="48" alt="Portfolio"></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonapandi-ravikumar)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sonaravikumar)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D98FB3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sonarportfolio.netlify.app/)
 </div>
 
 ## About me
@@ -43,6 +43,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 ## Experience
 
 ### Software Developer, Backend · Zevotria
+
 **January 2025 – Present** · Madurai, Tamil Nadu
 
 - Developed and maintained REST APIs with Node.js, Express.js and MongoDB
@@ -51,9 +52,10 @@ Backend developer building scalable APIs and AI-integrated systems since January
 - Built asynchronous workflows with RabbitMQ
 - Integrated OpenAI, Meta WhatsApp Cloud API and Razorpay
 - Developed webhook processing, email notifications and scheduled campaign automation
-- Investigated production issues and improved backend reliability and performance <!-- add one concrete example, e.g. what broke, what you changed, the result -->
+- Investigated production issues and improved backend reliability and performance
 
 ### Frontend Intern · Lithi Info Tech
+
 **January 2024 – April 2024** · Madurai, Tamil Nadu
 
 - Practiced React.js fundamentals and built reusable UI components
@@ -62,31 +64,36 @@ Backend developer building scalable APIs and AI-integrated systems since January
 ## Featured projects
 
 ### CareerPro: AI-powered career management platform
-- **Problem:** Career tasks (resumes, LinkedIn, interview prep, job tracking) are scattered across separate tools.
+
+- **Problem:** Career tasks such as resumes, LinkedIn optimization, interview preparation and job tracking are scattered across separate tools.
 - **Solution:** Backend APIs for AI-assisted resume generation, LinkedIn optimization, interview preparation and job tracking.
-- **My role:** Backend design, authentication, subscriptions, usage tracking.
+- **My role:** Backend design, authentication, subscriptions and usage tracking.
 - **Stack:** Node.js · Express.js · MongoDB · OpenAI API
 - **Outcome:** ~10 daily active users; 50+ resumes generated
-- **Links:** [Live demo](https://careerpro-ai.com/)
+- **Links:** [Live demo](https://careerpro-ai.com/) 
 
 ### Inderact: WhatsApp Business automation platform
+
 - **Problem:** Businesses handle WhatsApp replies and campaigns manually.
 - **Solution:** Automated replies, campaign management and event-driven messaging workflows.
-- **My role:** Webhook processing, RabbitMQ background jobs, WhatsApp Cloud API integration.
+- **My role:** Webhook processing, RabbitMQ background jobs and WhatsApp Cloud API integration.
 - **Stack:** WhatsApp Cloud API · RabbitMQ · Webhooks · Node.js
-- **Outcome:** Handles ~56 automated messages per day; campaign scheduling now runs automatically with no manual sending
+- **Outcome:** Handles ~56 automated messages per day; campaign scheduling runs automatically without manual sending
 
 ### Kellygang.AI: AI movie creation platform *(ongoing)*
+
 - **Scope:** Script generation, storyboards and asset management.
 - **My role:** Contributions to LLM, image, audio and video generation integrations and creative workflows.
 - **Links:** [Live demo](https://kellygang.ai/)
 
 ### Website Builder Platform
+
 - **Solution:** No-code website creation, editing and publishing.
 - **Stack:** React.js · GrapesJS · Node.js · Express.js · MongoDB
 - **Links:** [GitHub repository](https://github.com/Sonaravikumar/website) · [Live demo](https://website-builder-2026.netlify.app)
 
 ### AI Gen Studio: AI marketing content platform
+
 - **Solution:** Backend APIs for AI-powered marketing content generation, post ideation and automation workflows.
 - **Links:** [API demo](https://aigenstudio-server.onrender.com/) · [GitHub repository](https://github.com/Sonaravikumar/aigenstudio_server)
 
@@ -108,7 +115,7 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonaravikumar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171321&title_color=C9A7F7&icon_color=E6A6C7&text_color=E9E2F2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonaravikumar&layout=compact&hide_border=true&bg_color=171321&title_color=C9A7F7&text_color=E9E2F2)
 
