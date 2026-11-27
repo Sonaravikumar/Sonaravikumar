@@ -113,9 +113,6 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 ## 📈 GitHub activity
 
-
-## 🌌 3D Contribution Galaxy
-
 <div align="center">
 
   <img
@@ -129,8 +126,6 @@ Backend developer building scalable APIs and AI-integrated systems since January
   <i>Every star represents a day of building, learning and creating.</i>
 
 </div>
-
-## 📈 GitHub Activity
 
 <div align="center">
 
