@@ -113,13 +113,33 @@ Backend developer building scalable APIs and AI-integrated systems since January
 
 ## 📈 GitHub activity
 
+
+## 🌌 3D Contribution Galaxy
+
 <div align="center">
 
-[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSonaravikumar&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github)](https://github.com/Sonaravikumar?tab=repositories)
+  <img
+    src="assets/contribution-galaxy.svg"
+    alt="Sona Pandi - 3D GitHub Contribution Galaxy"
+    width="100%"
+  />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&custom_title=Contribution%20Activity&height=350&bg_color=171321&color=E9E2F2&line=C9A7F7&point=ffffff&area=true&area_color=C9A7F7&hide_border=true)
+  <br/>
+
+  <i>Every star represents a day of building, learning and creating.</i>
 
 </div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+  [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSonaravikumar&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github)](https://github.com/Sonaravikumar?tab=repositories)
+
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonaravikumar&custom_title=Contribution%20Activity&height=350&bg_color=171321&color=E9E2F2&line=C9A7F7&point=ffffff&area=true&area_color=C9A7F7&hide_border=true)
+
+</div>
+
 
 ## 🤝 Let's connect
 
