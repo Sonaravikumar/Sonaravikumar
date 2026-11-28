@@ -1300,27 +1300,6 @@
             <circle
                 cx="645.83"
                 cy="246.78"
-                r="1.56"
-                fill="#253c83"
-                opacity="0.60"
-            >
-                <title>
-                    2025-11-28:
-                    4 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="645.83"
-                    cy="246.78"
-                    r="4.37"
-                    fill="#253c83"
-                    opacity="0.02"
-                />
-            
-            <circle
-                cx="640.13"
-                cy="216.35"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1332,8 +1311,8 @@
             </circle>
         
             <circle
-                cx="643.22"
-                cy="243.00"
+                cx="640.13"
+                cy="216.35"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1345,8 +1324,8 @@
             </circle>
         
             <circle
-                cx="641.25"
-                cy="258.10"
+                cx="643.22"
+                cy="243.00"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -1358,16 +1337,16 @@
             </circle>
         
                 <circle
-                    cx="641.25"
-                    cy="258.10"
+                    cx="643.22"
+                    cy="243.00"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="637.91"
-                cy="227.56"
+                cx="641.25"
+                cy="258.10"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -1379,16 +1358,16 @@
             </circle>
         
                 <circle
-                    cx="637.91"
-                    cy="227.56"
+                    cx="641.25"
+                    cy="258.10"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="637.89"
-                cy="230.22"
+                cx="637.91"
+                cy="227.56"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -1400,16 +1379,16 @@
             </circle>
         
                 <circle
-                    cx="637.89"
-                    cy="230.22"
+                    cx="637.91"
+                    cy="227.56"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="649.32"
-                cy="246.45"
+                cx="637.89"
+                cy="230.22"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -1421,13 +1400,26 @@
             </circle>
         
                 <circle
-                    cx="649.32"
-                    cy="246.45"
+                    cx="637.89"
+                    cy="230.22"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
+            <circle
+                cx="649.32"
+                cy="246.45"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2025-12-05:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="633.40"
                 cy="222.25"
@@ -1436,7 +1428,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2025-12-05:
+                    2025-12-06:
                     0 contributions
                 </title>
             </circle>
@@ -1449,7 +1441,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2025-12-06:
+                    2025-12-07:
                     0 contributions
                 </title>
             </circle>
@@ -1457,19 +1449,6 @@
             <circle
                 cx="631.29"
                 cy="246.66"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2025-12-07:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="623.84"
-                cy="217.05"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -1481,16 +1460,16 @@
             </circle>
         
                 <circle
-                    cx="623.84"
-                    cy="217.05"
+                    cx="631.29"
+                    cy="246.66"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="616.79"
-                cy="275.67"
+                cx="623.84"
+                cy="217.05"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -1502,16 +1481,16 @@
             </circle>
         
                 <circle
-                    cx="616.79"
-                    cy="275.67"
+                    cx="623.84"
+                    cy="217.05"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="618.47"
-                cy="263.97"
+                cx="616.79"
+                cy="275.67"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -1523,16 +1502,16 @@
             </circle>
         
                 <circle
-                    cx="618.47"
-                    cy="263.97"
+                    cx="616.79"
+                    cy="275.67"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="614.24"
-                cy="238.37"
+                cx="618.47"
+                cy="263.97"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -1544,16 +1523,16 @@
             </circle>
         
                 <circle
-                    cx="614.24"
-                    cy="238.37"
+                    cx="618.47"
+                    cy="263.97"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="610.03"
-                cy="247.20"
+                cx="614.24"
+                cy="238.37"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -1565,16 +1544,16 @@
             </circle>
         
                 <circle
-                    cx="610.03"
-                    cy="247.20"
+                    cx="614.24"
+                    cy="238.37"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="609.49"
-                cy="233.11"
+                cx="610.03"
+                cy="247.20"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -1586,16 +1565,16 @@
             </circle>
         
                 <circle
-                    cx="609.49"
-                    cy="233.11"
+                    cx="610.03"
+                    cy="247.20"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="596.30"
-                cy="234.81"
+                cx="609.49"
+                cy="233.11"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1607,8 +1586,8 @@
             </circle>
         
             <circle
-                cx="597.38"
-                cy="262.96"
+                cx="596.30"
+                cy="234.81"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -1620,16 +1599,16 @@
             </circle>
         
                 <circle
-                    cx="597.38"
-                    cy="262.96"
+                    cx="596.30"
+                    cy="234.81"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="589.67"
-                cy="255.52"
+                cx="597.38"
+                cy="262.96"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1641,8 +1620,8 @@
             </circle>
         
             <circle
-                cx="574.25"
-                cy="256.08"
+                cx="589.67"
+                cy="255.52"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -1654,16 +1633,16 @@
             </circle>
         
                 <circle
-                    cx="574.25"
-                    cy="256.08"
+                    cx="589.67"
+                    cy="255.52"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="562.69"
-                cy="263.31"
+                cx="574.25"
+                cy="256.08"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1675,8 +1654,8 @@
             </circle>
         
             <circle
-                cx="564.33"
-                cy="270.50"
+                cx="562.69"
+                cy="263.31"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -1688,16 +1667,16 @@
             </circle>
         
                 <circle
-                    cx="564.33"
-                    cy="270.50"
+                    cx="562.69"
+                    cy="263.31"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="557.91"
-                cy="276.48"
+                cx="564.33"
+                cy="270.50"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -1709,16 +1688,16 @@
             </circle>
         
                 <circle
-                    cx="557.91"
-                    cy="276.48"
+                    cx="564.33"
+                    cy="270.50"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="566.80"
-                cy="227.23"
+                cx="557.91"
+                cy="276.48"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1730,8 +1709,8 @@
             </circle>
         
             <circle
-                cx="549.38"
-                cy="232.04"
+                cx="566.80"
+                cy="227.23"
                 r="2.72"
                 fill="#3478ed"
                 opacity="0.71"
@@ -1743,11 +1722,32 @@
             </circle>
         
                 <circle
-                    cx="549.38"
-                    cy="232.04"
+                    cx="566.80"
+                    cy="227.23"
                     r="7.60"
                     fill="#3478ed"
                     opacity="0.06"
+                />
+            
+            <circle
+                cx="549.38"
+                cy="232.04"
+                r="1.22"
+                fill="#253c83"
+                opacity="0.56"
+            >
+                <title>
+                    2025-12-23:
+                    1 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="549.38"
+                    cy="232.04"
+                    r="3.40"
+                    fill="#253c83"
+                    opacity="0.00"
                 />
             
             <circle
@@ -1758,7 +1758,7 @@
                 opacity="0.56"
             >
                 <title>
-                    2025-12-23:
+                    2025-12-24:
                     1 contributions
                 </title>
             </circle>
@@ -1774,27 +1774,6 @@
             <circle
                 cx="532.88"
                 cy="258.68"
-                r="1.22"
-                fill="#253c83"
-                opacity="0.56"
-            >
-                <title>
-                    2025-12-24:
-                    1 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="532.88"
-                    cy="258.68"
-                    r="3.40"
-                    fill="#253c83"
-                    opacity="0.00"
-                />
-            
-            <circle
-                cx="528.09"
-                cy="272.69"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1806,8 +1785,8 @@
             </circle>
         
             <circle
-                cx="526.67"
-                cy="268.13"
+                cx="528.09"
+                cy="272.69"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -1819,16 +1798,16 @@
             </circle>
         
                 <circle
-                    cx="526.67"
-                    cy="268.13"
+                    cx="528.09"
+                    cy="272.69"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="523.29"
-                cy="227.93"
+                cx="526.67"
+                cy="268.13"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1840,8 +1819,8 @@
             </circle>
         
             <circle
-                cx="516.92"
-                cy="248.09"
+                cx="523.29"
+                cy="227.93"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1853,8 +1832,8 @@
             </circle>
         
             <circle
-                cx="520.13"
-                cy="234.38"
+                cx="516.92"
+                cy="248.09"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -1866,16 +1845,16 @@
             </circle>
         
                 <circle
-                    cx="520.13"
-                    cy="234.38"
+                    cx="516.92"
+                    cy="248.09"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="531.15"
-                cy="220.61"
+                cx="520.13"
+                cy="234.38"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -1887,16 +1866,16 @@
             </circle>
         
                 <circle
-                    cx="531.15"
-                    cy="220.61"
+                    cx="520.13"
+                    cy="234.38"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="523.33"
-                cy="237.25"
+                cx="531.15"
+                cy="220.61"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1908,6 +1887,27 @@
             </circle>
         
             <circle
+                cx="523.33"
+                cy="237.25"
+                r="1.33"
+                fill="#253c83"
+                opacity="0.57"
+            >
+                <title>
+                    2026-01-01:
+                    2 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="523.33"
+                    cy="237.25"
+                    r="3.73"
+                    fill="#253c83"
+                    opacity="0.01"
+                />
+            
+            <circle
                 cx="526.10"
                 cy="226.13"
                 r="1.33"
@@ -1915,7 +1915,7 @@
                 opacity="0.57"
             >
                 <title>
-                    2026-01-01:
+                    2026-01-02:
                     2 contributions
                 </title>
             </circle>
@@ -1931,27 +1931,6 @@
             <circle
                 cx="524.37"
                 cy="219.26"
-                r="1.33"
-                fill="#253c83"
-                opacity="0.57"
-            >
-                <title>
-                    2026-01-02:
-                    2 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="524.37"
-                    cy="219.26"
-                    r="3.73"
-                    fill="#253c83"
-                    opacity="0.01"
-                />
-            
-            <circle
-                cx="532.59"
-                cy="196.11"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1963,8 +1942,8 @@
             </circle>
         
             <circle
-                cx="541.40"
-                cy="212.89"
+                cx="532.59"
+                cy="196.11"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -1976,8 +1955,8 @@
             </circle>
         
             <circle
-                cx="537.96"
-                cy="229.14"
+                cx="541.40"
+                cy="212.89"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -1989,16 +1968,16 @@
             </circle>
         
                 <circle
-                    cx="537.96"
-                    cy="229.14"
+                    cx="541.40"
+                    cy="212.89"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="563.93"
-                cy="210.98"
+                cx="537.96"
+                cy="229.14"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -2010,11 +1989,32 @@
             </circle>
         
                 <circle
-                    cx="563.93"
-                    cy="210.98"
+                    cx="537.96"
+                    cy="229.14"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
+                />
+            
+            <circle
+                cx="563.93"
+                cy="210.98"
+                r="1.68"
+                fill="#253c83"
+                opacity="0.61"
+            >
+                <title>
+                    2026-01-07:
+                    5 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="563.93"
+                    cy="210.98"
+                    r="4.70"
+                    fill="#253c83"
+                    opacity="0.02"
                 />
             
             <circle
@@ -2025,7 +2025,7 @@
                 opacity="0.61"
             >
                 <title>
-                    2026-01-07:
+                    2026-01-08:
                     5 contributions
                 </title>
             </circle>
@@ -2046,7 +2046,7 @@
                 opacity="0.61"
             >
                 <title>
-                    2026-01-08:
+                    2026-01-09:
                     5 contributions
                 </title>
             </circle>
@@ -2067,7 +2067,7 @@
                 opacity="0.61"
             >
                 <title>
-                    2026-01-09:
+                    2026-01-10:
                     5 contributions
                 </title>
             </circle>
@@ -2083,27 +2083,6 @@
             <circle
                 cx="575.42"
                 cy="200.86"
-                r="1.68"
-                fill="#253c83"
-                opacity="0.61"
-            >
-                <title>
-                    2026-01-10:
-                    5 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="575.42"
-                    cy="200.86"
-                    r="4.70"
-                    fill="#253c83"
-                    opacity="0.02"
-                />
-            
-            <circle
-                cx="581.81"
-                cy="187.32"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -2115,8 +2094,8 @@
             </circle>
         
             <circle
-                cx="588.55"
-                cy="183.83"
+                cx="581.81"
+                cy="187.32"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -2128,11 +2107,32 @@
             </circle>
         
                 <circle
-                    cx="588.55"
-                    cy="183.83"
+                    cx="581.81"
+                    cy="187.32"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
+                />
+            
+            <circle
+                cx="588.55"
+                cy="183.83"
+                r="1.22"
+                fill="#253c83"
+                opacity="0.56"
+            >
+                <title>
+                    2026-01-13:
+                    1 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="588.55"
+                    cy="183.83"
+                    r="3.40"
+                    fill="#253c83"
+                    opacity="0.00"
                 />
             
             <circle
@@ -2143,7 +2143,7 @@
                 opacity="0.56"
             >
                 <title>
-                    2026-01-13:
+                    2026-01-14:
                     1 contributions
                 </title>
             </circle>
@@ -2159,24 +2159,16 @@
             <circle
                 cx="602.03"
                 cy="188.23"
-                r="1.22"
-                fill="#253c83"
-                opacity="0.56"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
             >
                 <title>
-                    2026-01-14:
-                    1 contributions
+                    2026-01-15:
+                    0 contributions
                 </title>
             </circle>
         
-                <circle
-                    cx="602.03"
-                    cy="188.23"
-                    r="3.40"
-                    fill="#253c83"
-                    opacity="0.00"
-                />
-            
             <circle
                 cx="617.22"
                 cy="231.00"
@@ -2185,7 +2177,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-15:
+                    2026-01-16:
                     0 contributions
                 </title>
             </circle>
@@ -2198,7 +2190,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-16:
+                    2026-01-17:
                     0 contributions
                 </title>
             </circle>
@@ -2211,7 +2203,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-17:
+                    2026-01-18:
                     0 contributions
                 </title>
             </circle>
@@ -2219,19 +2211,6 @@
             <circle
                 cx="645.63"
                 cy="202.62"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-01-18:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="648.29"
-                cy="185.75"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -2243,16 +2222,16 @@
             </circle>
         
                 <circle
-                    cx="648.29"
-                    cy="185.75"
+                    cx="645.63"
+                    cy="202.62"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="663.63"
-                cy="184.59"
+                cx="648.29"
+                cy="185.75"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -2264,16 +2243,16 @@
             </circle>
         
                 <circle
-                    cx="663.63"
-                    cy="184.59"
+                    cx="648.29"
+                    cy="185.75"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="666.77"
-                cy="193.71"
+                cx="663.63"
+                cy="184.59"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -2285,8 +2264,8 @@
             </circle>
         
             <circle
-                cx="702.30"
-                cy="245.89"
+                cx="666.77"
+                cy="193.71"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -2298,16 +2277,16 @@
             </circle>
         
                 <circle
-                    cx="702.30"
-                    cy="245.89"
+                    cx="666.77"
+                    cy="193.71"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="686.57"
-                cy="223.16"
+                cx="702.30"
+                cy="245.89"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -2319,13 +2298,26 @@
             </circle>
         
                 <circle
-                    cx="686.57"
-                    cy="223.16"
+                    cx="702.30"
+                    cy="245.89"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
+            <circle
+                cx="686.57"
+                cy="223.16"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-01-24:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="699.12"
                 cy="235.65"
@@ -2334,7 +2326,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-24:
+                    2026-01-25:
                     0 contributions
                 </title>
             </circle>
@@ -2347,7 +2339,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-25:
+                    2026-01-26:
                     0 contributions
                 </title>
             </circle>
@@ -2355,19 +2347,6 @@
             <circle
                 cx="699.05"
                 cy="207.48"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-01-26:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="721.15"
-                cy="264.42"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -2379,16 +2358,16 @@
             </circle>
         
                 <circle
-                    cx="721.15"
-                    cy="264.42"
+                    cx="699.05"
+                    cy="207.48"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="690.67"
-                cy="203.22"
+                cx="721.15"
+                cy="264.42"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -2400,16 +2379,16 @@
             </circle>
         
                 <circle
-                    cx="690.67"
-                    cy="203.22"
+                    cx="721.15"
+                    cy="264.42"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="696.72"
-                cy="240.70"
+                cx="690.67"
+                cy="203.22"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -2421,8 +2400,8 @@
             </circle>
         
             <circle
-                cx="703.60"
-                cy="223.96"
+                cx="696.72"
+                cy="240.70"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -2434,13 +2413,26 @@
             </circle>
         
                 <circle
-                    cx="703.60"
-                    cy="223.96"
+                    cx="696.72"
+                    cy="240.70"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
+            <circle
+                cx="703.60"
+                cy="223.96"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-01-31:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="704.41"
                 cy="259.75"
@@ -2449,7 +2441,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-01-31:
+                    2026-02-01:
                     0 contributions
                 </title>
             </circle>
@@ -2462,7 +2454,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-01:
+                    2026-02-02:
                     0 contributions
                 </title>
             </circle>
@@ -2470,16 +2462,24 @@
             <circle
                 cx="702.81"
                 cy="284.24"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
+                r="1.56"
+                fill="#253c83"
+                opacity="0.60"
             >
                 <title>
-                    2026-02-02:
-                    0 contributions
+                    2026-02-03:
+                    4 contributions
                 </title>
             </circle>
         
+                <circle
+                    cx="702.81"
+                    cy="284.24"
+                    r="4.37"
+                    fill="#253c83"
+                    opacity="0.02"
+                />
+            
             <circle
                 cx="678.43"
                 cy="230.75"
@@ -2488,7 +2488,7 @@
                 opacity="0.60"
             >
                 <title>
-                    2026-02-03:
+                    2026-02-04:
                     4 contributions
                 </title>
             </circle>
@@ -2504,22 +2504,22 @@
             <circle
                 cx="669.17"
                 cy="267.73"
-                r="1.56"
+                r="1.45"
                 fill="#253c83"
-                opacity="0.60"
+                opacity="0.58"
             >
                 <title>
-                    2026-02-04:
-                    4 contributions
+                    2026-02-05:
+                    3 contributions
                 </title>
             </circle>
         
                 <circle
                     cx="669.17"
                     cy="267.73"
-                    r="4.37"
+                    r="4.05"
                     fill="#253c83"
-                    opacity="0.02"
+                    opacity="0.01"
                 />
             
             <circle
@@ -2530,7 +2530,7 @@
                 opacity="0.58"
             >
                 <title>
-                    2026-02-05:
+                    2026-02-06:
                     3 contributions
                 </title>
             </circle>
@@ -2546,27 +2546,6 @@
             <circle
                 cx="675.22"
                 cy="265.91"
-                r="1.45"
-                fill="#253c83"
-                opacity="0.58"
-            >
-                <title>
-                    2026-02-06:
-                    3 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="675.22"
-                    cy="265.91"
-                    r="4.05"
-                    fill="#253c83"
-                    opacity="0.01"
-                />
-            
-            <circle
-                cx="644.41"
-                cy="240.60"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -2578,8 +2557,8 @@
             </circle>
         
             <circle
-                cx="637.27"
-                cy="249.89"
+                cx="644.41"
+                cy="240.60"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -2591,8 +2570,8 @@
             </circle>
         
             <circle
-                cx="618.52"
-                cy="241.97"
+                cx="637.27"
+                cy="249.89"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -2604,13 +2583,26 @@
             </circle>
         
                 <circle
-                    cx="618.52"
-                    cy="241.97"
+                    cx="637.27"
+                    cy="249.89"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
+            <circle
+                cx="618.52"
+                cy="241.97"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-02-10:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="626.45"
                 cy="309.95"
@@ -2619,7 +2611,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-10:
+                    2026-02-11:
                     0 contributions
                 </title>
             </circle>
@@ -2632,7 +2624,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-11:
+                    2026-02-12:
                     0 contributions
                 </title>
             </circle>
@@ -2645,7 +2637,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-12:
+                    2026-02-13:
                     0 contributions
                 </title>
             </circle>
@@ -2658,7 +2650,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-13:
+                    2026-02-14:
                     0 contributions
                 </title>
             </circle>
@@ -2671,7 +2663,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-14:
+                    2026-02-15:
                     0 contributions
                 </title>
             </circle>
@@ -2679,19 +2671,6 @@
             <circle
                 cx="552.88"
                 cy="281.30"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-02-15:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="567.66"
-                cy="286.47"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -2703,13 +2682,26 @@
             </circle>
         
                 <circle
-                    cx="567.66"
-                    cy="286.47"
+                    cx="552.88"
+                    cy="281.30"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
+            <circle
+                cx="567.66"
+                cy="286.47"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-02-17:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="520.68"
                 cy="295.15"
@@ -2718,7 +2710,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-17:
+                    2026-02-18:
                     0 contributions
                 </title>
             </circle>
@@ -2731,7 +2723,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-18:
+                    2026-02-19:
                     0 contributions
                 </title>
             </circle>
@@ -2744,7 +2736,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-19:
+                    2026-02-20:
                     0 contributions
                 </title>
             </circle>
@@ -2757,7 +2749,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-20:
+                    2026-02-21:
                     0 contributions
                 </title>
             </circle>
@@ -2770,7 +2762,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-21:
+                    2026-02-22:
                     0 contributions
                 </title>
             </circle>
@@ -2783,7 +2775,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-22:
+                    2026-02-23:
                     0 contributions
                 </title>
             </circle>
@@ -2796,7 +2788,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-23:
+                    2026-02-24:
                     0 contributions
                 </title>
             </circle>
@@ -2809,7 +2801,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-24:
+                    2026-02-25:
                     0 contributions
                 </title>
             </circle>
@@ -2822,7 +2814,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-25:
+                    2026-02-26:
                     0 contributions
                 </title>
             </circle>
@@ -2835,7 +2827,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-26:
+                    2026-02-27:
                     0 contributions
                 </title>
             </circle>
@@ -2848,7 +2840,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-27:
+                    2026-02-28:
                     0 contributions
                 </title>
             </circle>
@@ -2861,7 +2853,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-02-28:
+                    2026-03-01:
                     0 contributions
                 </title>
             </circle>
@@ -2874,7 +2866,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-01:
+                    2026-03-02:
                     0 contributions
                 </title>
             </circle>
@@ -2882,19 +2874,6 @@
             <circle
                 cx="477.32"
                 cy="212.49"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-03-02:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="465.20"
-                cy="228.95"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -2906,13 +2885,26 @@
             </circle>
         
                 <circle
-                    cx="465.20"
-                    cy="228.95"
+                    cx="477.32"
+                    cy="212.49"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
+            <circle
+                cx="465.20"
+                cy="228.95"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-03-04:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="469.99"
                 cy="231.82"
@@ -2921,7 +2913,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-04:
+                    2026-03-05:
                     0 contributions
                 </title>
             </circle>
@@ -2934,7 +2926,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-05:
+                    2026-03-06:
                     0 contributions
                 </title>
             </circle>
@@ -2947,7 +2939,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-06:
+                    2026-03-07:
                     0 contributions
                 </title>
             </circle>
@@ -2960,7 +2952,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-07:
+                    2026-03-08:
                     0 contributions
                 </title>
             </circle>
@@ -2973,7 +2965,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-08:
+                    2026-03-09:
                     0 contributions
                 </title>
             </circle>
@@ -2986,7 +2978,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-09:
+                    2026-03-10:
                     0 contributions
                 </title>
             </circle>
@@ -2999,7 +2991,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-10:
+                    2026-03-11:
                     0 contributions
                 </title>
             </circle>
@@ -3012,7 +3004,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-11:
+                    2026-03-12:
                     0 contributions
                 </title>
             </circle>
@@ -3025,7 +3017,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-12:
+                    2026-03-13:
                     0 contributions
                 </title>
             </circle>
@@ -3038,7 +3030,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-13:
+                    2026-03-14:
                     0 contributions
                 </title>
             </circle>
@@ -3051,7 +3043,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-14:
+                    2026-03-15:
                     0 contributions
                 </title>
             </circle>
@@ -3064,7 +3056,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-15:
+                    2026-03-16:
                     0 contributions
                 </title>
             </circle>
@@ -3077,7 +3069,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-16:
+                    2026-03-17:
                     0 contributions
                 </title>
             </circle>
@@ -3090,7 +3082,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-17:
+                    2026-03-18:
                     0 contributions
                 </title>
             </circle>
@@ -3103,7 +3095,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-18:
+                    2026-03-19:
                     0 contributions
                 </title>
             </circle>
@@ -3116,7 +3108,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-19:
+                    2026-03-20:
                     0 contributions
                 </title>
             </circle>
@@ -3129,7 +3121,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-20:
+                    2026-03-21:
                     0 contributions
                 </title>
             </circle>
@@ -3142,7 +3134,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-21:
+                    2026-03-22:
                     0 contributions
                 </title>
             </circle>
@@ -3155,7 +3147,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-22:
+                    2026-03-23:
                     0 contributions
                 </title>
             </circle>
@@ -3168,7 +3160,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-23:
+                    2026-03-24:
                     0 contributions
                 </title>
             </circle>
@@ -3181,7 +3173,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-24:
+                    2026-03-25:
                     0 contributions
                 </title>
             </circle>
@@ -3194,7 +3186,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-25:
+                    2026-03-26:
                     0 contributions
                 </title>
             </circle>
@@ -3207,7 +3199,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-26:
+                    2026-03-27:
                     0 contributions
                 </title>
             </circle>
@@ -3220,7 +3212,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-27:
+                    2026-03-28:
                     0 contributions
                 </title>
             </circle>
@@ -3233,7 +3225,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-28:
+                    2026-03-29:
                     0 contributions
                 </title>
             </circle>
@@ -3246,7 +3238,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-29:
+                    2026-03-30:
                     0 contributions
                 </title>
             </circle>
@@ -3259,7 +3251,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-30:
+                    2026-03-31:
                     0 contributions
                 </title>
             </circle>
@@ -3272,7 +3264,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-03-31:
+                    2026-04-01:
                     0 contributions
                 </title>
             </circle>
@@ -3280,19 +3272,6 @@
             <circle
                 cx="775.48"
                 cy="264.33"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-04-01:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="746.89"
-                cy="250.28"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -3304,13 +3283,26 @@
             </circle>
         
                 <circle
-                    cx="746.89"
-                    cy="250.28"
+                    cx="775.48"
+                    cy="264.33"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
+            <circle
+                cx="746.89"
+                cy="250.28"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-04-03:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="752.69"
                 cy="271.93"
@@ -3319,7 +3311,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-03:
+                    2026-04-04:
                     0 contributions
                 </title>
             </circle>
@@ -3332,7 +3324,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-04:
+                    2026-04-05:
                     0 contributions
                 </title>
             </circle>
@@ -3340,19 +3332,6 @@
             <circle
                 cx="743.36"
                 cy="288.85"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-04-05:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="739.54"
-                cy="308.59"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -3364,16 +3343,16 @@
             </circle>
         
                 <circle
-                    cx="739.54"
-                    cy="308.59"
+                    cx="743.36"
+                    cy="288.85"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="682.44"
-                cy="274.10"
+                cx="739.54"
+                cy="308.59"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -3385,16 +3364,16 @@
             </circle>
         
                 <circle
-                    cx="682.44"
-                    cy="274.10"
+                    cx="739.54"
+                    cy="308.59"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="709.44"
-                cy="303.90"
+                cx="682.44"
+                cy="274.10"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -3406,16 +3385,16 @@
             </circle>
         
                 <circle
-                    cx="709.44"
-                    cy="303.90"
+                    cx="682.44"
+                    cy="274.10"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="660.52"
-                cy="284.98"
+                cx="709.44"
+                cy="303.90"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3427,8 +3406,8 @@
             </circle>
         
             <circle
-                cx="679.18"
-                cy="274.66"
+                cx="660.52"
+                cy="284.98"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3440,8 +3419,8 @@
             </circle>
         
             <circle
-                cx="635.51"
-                cy="307.17"
+                cx="679.18"
+                cy="274.66"
                 r="2.60"
                 fill="#3478ed"
                 opacity="0.70"
@@ -3453,16 +3432,16 @@
             </circle>
         
                 <circle
-                    cx="635.51"
-                    cy="307.17"
+                    cx="679.18"
+                    cy="274.66"
                     r="7.28"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="610.44"
-                cy="304.93"
+                cx="635.51"
+                cy="307.17"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3474,8 +3453,8 @@
             </circle>
         
             <circle
-                cx="590.42"
-                cy="286.76"
+                cx="610.44"
+                cy="304.93"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -3487,16 +3466,16 @@
             </circle>
         
                 <circle
-                    cx="590.42"
-                    cy="286.76"
+                    cx="610.44"
+                    cy="304.93"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="599.52"
-                cy="307.30"
+                cx="590.42"
+                cy="286.76"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3508,8 +3487,8 @@
             </circle>
         
             <circle
-                cx="585.90"
-                cy="332.21"
+                cx="599.52"
+                cy="307.30"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -3521,11 +3500,32 @@
             </circle>
         
                 <circle
-                    cx="585.90"
-                    cy="332.21"
+                    cx="599.52"
+                    cy="307.30"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
+                />
+            
+            <circle
+                cx="585.90"
+                cy="332.21"
+                r="1.68"
+                fill="#253c83"
+                opacity="0.61"
+            >
+                <title>
+                    2026-04-16:
+                    5 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="585.90"
+                    cy="332.21"
+                    r="4.70"
+                    fill="#253c83"
+                    opacity="0.02"
                 />
             
             <circle
@@ -3536,7 +3536,7 @@
                 opacity="0.61"
             >
                 <title>
-                    2026-04-16:
+                    2026-04-17:
                     5 contributions
                 </title>
             </circle>
@@ -3557,7 +3557,7 @@
                 opacity="0.61"
             >
                 <title>
-                    2026-04-17:
+                    2026-04-18:
                     5 contributions
                 </title>
             </circle>
@@ -3573,24 +3573,16 @@
             <circle
                 cx="502.14"
                 cy="276.54"
-                r="1.68"
-                fill="#253c83"
-                opacity="0.61"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
             >
                 <title>
-                    2026-04-18:
-                    5 contributions
+                    2026-04-19:
+                    0 contributions
                 </title>
             </circle>
         
-                <circle
-                    cx="502.14"
-                    cy="276.54"
-                    r="4.70"
-                    fill="#253c83"
-                    opacity="0.02"
-                />
-            
             <circle
                 cx="537.19"
                 cy="271.11"
@@ -3599,7 +3591,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-19:
+                    2026-04-20:
                     0 contributions
                 </title>
             </circle>
@@ -3612,7 +3604,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-20:
+                    2026-04-21:
                     0 contributions
                 </title>
             </circle>
@@ -3625,7 +3617,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-21:
+                    2026-04-22:
                     0 contributions
                 </title>
             </circle>
@@ -3638,7 +3630,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-22:
+                    2026-04-23:
                     0 contributions
                 </title>
             </circle>
@@ -3646,19 +3638,6 @@
             <circle
                 cx="443.88"
                 cy="244.21"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-04-23:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="450.81"
-                cy="276.91"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -3670,13 +3649,26 @@
             </circle>
         
                 <circle
-                    cx="450.81"
-                    cy="276.91"
+                    cx="443.88"
+                    cy="244.21"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
+            <circle
+                cx="450.81"
+                cy="276.91"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-04-25:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="420.30"
                 cy="284.73"
@@ -3685,7 +3677,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-25:
+                    2026-04-26:
                     0 contributions
                 </title>
             </circle>
@@ -3698,7 +3690,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-26:
+                    2026-04-27:
                     0 contributions
                 </title>
             </circle>
@@ -3711,7 +3703,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-27:
+                    2026-04-28:
                     0 contributions
                 </title>
             </circle>
@@ -3724,7 +3716,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-28:
+                    2026-04-29:
                     0 contributions
                 </title>
             </circle>
@@ -3737,7 +3729,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-29:
+                    2026-04-30:
                     0 contributions
                 </title>
             </circle>
@@ -3750,7 +3742,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-04-30:
+                    2026-05-01:
                     0 contributions
                 </title>
             </circle>
@@ -3763,7 +3755,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-01:
+                    2026-05-02:
                     0 contributions
                 </title>
             </circle>
@@ -3776,7 +3768,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-02:
+                    2026-05-03:
                     0 contributions
                 </title>
             </circle>
@@ -3789,7 +3781,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-03:
+                    2026-05-04:
                     0 contributions
                 </title>
             </circle>
@@ -3802,7 +3794,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-04:
+                    2026-05-05:
                     0 contributions
                 </title>
             </circle>
@@ -3810,19 +3802,6 @@
             <circle
                 cx="438.79"
                 cy="197.92"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-05-05:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="482.65"
-                cy="159.23"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -3834,16 +3813,16 @@
             </circle>
         
                 <circle
-                    cx="482.65"
-                    cy="159.23"
+                    cx="438.79"
+                    cy="197.92"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="458.61"
-                cy="171.12"
+                cx="482.65"
+                cy="159.23"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -3855,16 +3834,16 @@
             </circle>
         
                 <circle
-                    cx="458.61"
-                    cy="171.12"
+                    cx="482.65"
+                    cy="159.23"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="481.71"
-                cy="167.29"
+                cx="458.61"
+                cy="171.12"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -3876,16 +3855,16 @@
             </circle>
         
                 <circle
-                    cx="481.71"
-                    cy="167.29"
+                    cx="458.61"
+                    cy="171.12"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="496.75"
-                cy="155.51"
+                cx="481.71"
+                cy="167.29"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3897,8 +3876,8 @@
             </circle>
         
             <circle
-                cx="506.36"
-                cy="166.02"
+                cx="496.75"
+                cy="155.51"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3910,6 +3889,27 @@
             </circle>
         
             <circle
+                cx="506.36"
+                cy="166.02"
+                r="1.33"
+                fill="#253c83"
+                opacity="0.57"
+            >
+                <title>
+                    2026-05-11:
+                    2 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="506.36"
+                    cy="166.02"
+                    r="3.73"
+                    fill="#253c83"
+                    opacity="0.01"
+                />
+            
+            <circle
                 cx="517.73"
                 cy="180.99"
                 r="1.33"
@@ -3917,7 +3917,7 @@
                 opacity="0.57"
             >
                 <title>
-                    2026-05-11:
+                    2026-05-12:
                     2 contributions
                 </title>
             </circle>
@@ -3933,27 +3933,6 @@
             <circle
                 cx="564.47"
                 cy="152.97"
-                r="1.33"
-                fill="#253c83"
-                opacity="0.57"
-            >
-                <title>
-                    2026-05-12:
-                    2 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="564.47"
-                    cy="152.97"
-                    r="3.73"
-                    fill="#253c83"
-                    opacity="0.01"
-                />
-            
-            <circle
-                cx="591.05"
-                cy="181.38"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -3965,8 +3944,8 @@
             </circle>
         
             <circle
-                cx="611.42"
-                cy="176.88"
+                cx="591.05"
+                cy="181.38"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -3978,13 +3957,26 @@
             </circle>
         
                 <circle
-                    cx="611.42"
-                    cy="176.88"
+                    cx="591.05"
+                    cy="181.38"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
+            <circle
+                cx="611.42"
+                cy="176.88"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-05-15:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="619.31"
                 cy="146.66"
@@ -3993,7 +3985,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-15:
+                    2026-05-16:
                     0 contributions
                 </title>
             </circle>
@@ -4006,7 +3998,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-16:
+                    2026-05-17:
                     0 contributions
                 </title>
             </circle>
@@ -4014,19 +4006,6 @@
             <circle
                 cx="649.13"
                 cy="152.35"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-05-17:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="661.17"
-                cy="175.92"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -4038,16 +4017,16 @@
             </circle>
         
                 <circle
-                    cx="661.17"
-                    cy="175.92"
+                    cx="649.13"
+                    cy="152.35"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="739.74"
-                cy="195.69"
+                cx="661.17"
+                cy="175.92"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -4059,16 +4038,16 @@
             </circle>
         
                 <circle
-                    cx="739.74"
-                    cy="195.69"
+                    cx="661.17"
+                    cy="175.92"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="717.71"
-                cy="185.40"
+                cx="739.74"
+                cy="195.69"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4080,8 +4059,8 @@
             </circle>
         
             <circle
-                cx="744.15"
-                cy="181.28"
+                cx="717.71"
+                cy="185.40"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -4093,11 +4072,32 @@
             </circle>
         
                 <circle
-                    cx="744.15"
-                    cy="181.28"
+                    cx="717.71"
+                    cy="185.40"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
+                />
+            
+            <circle
+                cx="744.15"
+                cy="181.28"
+                r="1.56"
+                fill="#253c83"
+                opacity="0.60"
+            >
+                <title>
+                    2026-05-22:
+                    4 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="744.15"
+                    cy="181.28"
+                    r="4.37"
+                    fill="#253c83"
+                    opacity="0.02"
                 />
             
             <circle
@@ -4108,7 +4108,7 @@
                 opacity="0.60"
             >
                 <title>
-                    2026-05-22:
+                    2026-05-23:
                     4 contributions
                 </title>
             </circle>
@@ -4124,27 +4124,6 @@
             <circle
                 cx="782.83"
                 cy="203.19"
-                r="1.56"
-                fill="#253c83"
-                opacity="0.60"
-            >
-                <title>
-                    2026-05-23:
-                    4 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="782.83"
-                    cy="203.19"
-                    r="4.37"
-                    fill="#253c83"
-                    opacity="0.02"
-                />
-            
-            <circle
-                cx="774.90"
-                cy="187.74"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4156,8 +4135,8 @@
             </circle>
         
             <circle
-                cx="819.37"
-                cy="229.39"
+                cx="774.90"
+                cy="187.74"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -4169,16 +4148,16 @@
             </circle>
         
                 <circle
-                    cx="819.37"
-                    cy="229.39"
+                    cx="774.90"
+                    cy="187.74"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="799.82"
-                cy="217.24"
+                cx="819.37"
+                cy="229.39"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -4190,16 +4169,16 @@
             </circle>
         
                 <circle
-                    cx="799.82"
-                    cy="217.24"
+                    cx="819.37"
+                    cy="229.39"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="807.42"
-                cy="216.26"
+                cx="799.82"
+                cy="217.24"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -4211,16 +4190,16 @@
             </circle>
         
                 <circle
-                    cx="807.42"
-                    cy="216.26"
+                    cx="799.82"
+                    cy="217.24"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="832.95"
-                cy="240.88"
+                cx="807.42"
+                cy="216.26"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -4232,13 +4211,26 @@
             </circle>
         
                 <circle
-                    cx="832.95"
-                    cy="240.88"
+                    cx="807.42"
+                    cy="216.26"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
+            <circle
+                cx="832.95"
+                cy="240.88"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-05-29:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="816.20"
                 cy="255.32"
@@ -4247,7 +4239,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-29:
+                    2026-05-30:
                     0 contributions
                 </title>
             </circle>
@@ -4260,7 +4252,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-30:
+                    2026-05-31:
                     0 contributions
                 </title>
             </circle>
@@ -4273,7 +4265,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-05-31:
+                    2026-06-01:
                     0 contributions
                 </title>
             </circle>
@@ -4281,19 +4273,6 @@
             <circle
                 cx="802.87"
                 cy="226.29"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-06-01:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="784.09"
-                cy="274.45"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -4305,16 +4284,16 @@
             </circle>
         
                 <circle
-                    cx="784.09"
-                    cy="274.45"
+                    cx="802.87"
+                    cy="226.29"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="778.45"
-                cy="257.44"
+                cx="784.09"
+                cy="274.45"
                 r="2.72"
                 fill="#3478ed"
                 opacity="0.71"
@@ -4326,16 +4305,16 @@
             </circle>
         
                 <circle
-                    cx="778.45"
-                    cy="257.44"
+                    cx="784.09"
+                    cy="274.45"
                     r="7.60"
                     fill="#3478ed"
                     opacity="0.06"
                 />
             
             <circle
-                cx="787.35"
-                cy="291.64"
+                cx="778.45"
+                cy="257.44"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -4347,16 +4326,16 @@
             </circle>
         
                 <circle
-                    cx="787.35"
-                    cy="291.64"
+                    cx="778.45"
+                    cy="257.44"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="771.64"
-                cy="263.41"
+                cx="787.35"
+                cy="291.64"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -4368,13 +4347,26 @@
             </circle>
         
                 <circle
-                    cx="771.64"
-                    cy="263.41"
+                    cx="787.35"
+                    cy="291.64"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
+            <circle
+                cx="771.64"
+                cy="263.41"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-06-06:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="758.30"
                 cy="260.10"
@@ -4383,7 +4375,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-06-06:
+                    2026-06-07:
                     0 contributions
                 </title>
             </circle>
@@ -4396,7 +4388,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-06-07:
+                    2026-06-08:
                     0 contributions
                 </title>
             </circle>
@@ -4404,19 +4396,6 @@
             <circle
                 cx="698.64"
                 cy="319.54"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-06-08:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="728.58"
-                cy="335.00"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -4428,16 +4407,16 @@
             </circle>
         
                 <circle
-                    cx="728.58"
-                    cy="335.00"
+                    cx="698.64"
+                    cy="319.54"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="647.33"
-                cy="315.80"
+                cx="728.58"
+                cy="335.00"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -4449,16 +4428,16 @@
             </circle>
         
                 <circle
-                    cx="647.33"
-                    cy="315.80"
+                    cx="728.58"
+                    cy="335.00"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="642.90"
-                cy="334.94"
+                cx="647.33"
+                cy="315.80"
                 r="2.02"
                 fill="#3478ed"
                 opacity="0.64"
@@ -4470,16 +4449,16 @@
             </circle>
         
                 <circle
-                    cx="642.90"
-                    cy="334.94"
+                    cx="647.33"
+                    cy="315.80"
                     r="5.66"
                     fill="#3478ed"
                     opacity="0.03"
                 />
             
             <circle
-                cx="654.66"
-                cy="330.32"
+                cx="642.90"
+                cy="334.94"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -4491,16 +4470,16 @@
             </circle>
         
                 <circle
-                    cx="654.66"
-                    cy="330.32"
+                    cx="642.90"
+                    cy="334.94"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="596.43"
-                cy="310.17"
+                cx="654.66"
+                cy="330.32"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -4512,16 +4491,16 @@
             </circle>
         
                 <circle
-                    cx="596.43"
-                    cy="310.17"
+                    cx="654.66"
+                    cy="330.32"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="565.89"
-                cy="316.32"
+                cx="596.43"
+                cy="310.17"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4533,8 +4512,8 @@
             </circle>
         
             <circle
-                cx="527.24"
-                cy="319.59"
+                cx="565.89"
+                cy="316.32"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -4546,16 +4525,16 @@
             </circle>
         
                 <circle
-                    cx="527.24"
-                    cy="319.59"
+                    cx="565.89"
+                    cy="316.32"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="499.84"
-                cy="308.81"
+                cx="527.24"
+                cy="319.59"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -4567,16 +4546,16 @@
             </circle>
         
                 <circle
-                    cx="499.84"
-                    cy="308.81"
+                    cx="527.24"
+                    cy="319.59"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="525.52"
-                cy="341.73"
+                cx="499.84"
+                cy="308.81"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -4588,16 +4567,16 @@
             </circle>
         
                 <circle
-                    cx="525.52"
-                    cy="341.73"
+                    cx="499.84"
+                    cy="308.81"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="521.88"
-                cy="321.74"
+                cx="525.52"
+                cy="341.73"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -4609,16 +4588,16 @@
             </circle>
         
                 <circle
-                    cx="521.88"
-                    cy="321.74"
+                    cx="525.52"
+                    cy="341.73"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="444.37"
-                cy="313.95"
+                cx="521.88"
+                cy="321.74"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4630,8 +4609,8 @@
             </circle>
         
             <circle
-                cx="406.84"
-                cy="326.11"
+                cx="444.37"
+                cy="313.95"
                 r="2.02"
                 fill="#3478ed"
                 opacity="0.64"
@@ -4643,16 +4622,16 @@
             </circle>
         
                 <circle
-                    cx="406.84"
-                    cy="326.11"
+                    cx="444.37"
+                    cy="313.95"
                     r="5.66"
                     fill="#3478ed"
                     opacity="0.03"
                 />
             
             <circle
-                cx="394.68"
-                cy="304.87"
+                cx="406.84"
+                cy="326.11"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4664,8 +4643,8 @@
             </circle>
         
             <circle
-                cx="427.30"
-                cy="268.96"
+                cx="394.68"
+                cy="304.87"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -4677,16 +4656,16 @@
             </circle>
         
                 <circle
-                    cx="427.30"
-                    cy="268.96"
+                    cx="394.68"
+                    cy="304.87"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="415.99"
-                cy="288.31"
+                cx="427.30"
+                cy="268.96"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -4698,16 +4677,16 @@
             </circle>
         
                 <circle
-                    cx="415.99"
-                    cy="288.31"
+                    cx="427.30"
+                    cy="268.96"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="361.91"
-                cy="267.44"
+                cx="415.99"
+                cy="288.31"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -4719,16 +4698,16 @@
             </circle>
         
                 <circle
-                    cx="361.91"
-                    cy="267.44"
+                    cx="415.99"
+                    cy="288.31"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="343.65"
-                cy="277.37"
+                cx="361.91"
+                cy="267.44"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -4740,16 +4719,16 @@
             </circle>
         
                 <circle
-                    cx="343.65"
-                    cy="277.37"
+                    cx="361.91"
+                    cy="267.44"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="376.59"
-                cy="221.74"
+                cx="343.65"
+                cy="277.37"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -4761,16 +4740,16 @@
             </circle>
         
                 <circle
-                    cx="376.59"
-                    cy="221.74"
+                    cx="343.65"
+                    cy="277.37"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="348.32"
-                cy="240.11"
+                cx="376.59"
+                cy="221.74"
                 r="2.60"
                 fill="#3478ed"
                 opacity="0.70"
@@ -4782,16 +4761,16 @@
             </circle>
         
                 <circle
-                    cx="348.32"
-                    cy="240.11"
+                    cx="376.59"
+                    cy="221.74"
                     r="7.28"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="373.88"
-                cy="205.73"
+                cx="348.32"
+                cy="240.11"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4803,8 +4782,8 @@
             </circle>
         
             <circle
-                cx="325.66"
-                cy="259.89"
+                cx="373.88"
+                cy="205.73"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -4816,16 +4795,16 @@
             </circle>
         
                 <circle
-                    cx="325.66"
-                    cy="259.89"
+                    cx="373.88"
+                    cy="205.73"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="386.13"
-                cy="186.69"
+                cx="325.66"
+                cy="259.89"
                 r="2.83"
                 fill="#3478ed"
                 opacity="0.72"
@@ -4837,16 +4816,16 @@
             </circle>
         
                 <circle
-                    cx="386.13"
-                    cy="186.69"
+                    cx="325.66"
+                    cy="259.89"
                     r="7.93"
                     fill="#3478ed"
                     opacity="0.06"
                 />
             
             <circle
-                cx="371.51"
-                cy="191.79"
+                cx="386.13"
+                cy="186.69"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -4858,16 +4837,16 @@
             </circle>
         
                 <circle
-                    cx="371.51"
-                    cy="191.79"
+                    cx="386.13"
+                    cy="186.69"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="369.77"
-                cy="195.20"
+                cx="371.51"
+                cy="191.79"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -4879,16 +4858,16 @@
             </circle>
         
                 <circle
-                    cx="369.77"
-                    cy="195.20"
+                    cx="371.51"
+                    cy="191.79"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="376.94"
-                cy="187.61"
+                cx="369.77"
+                cy="195.20"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -4900,16 +4879,16 @@
             </circle>
         
                 <circle
-                    cx="376.94"
-                    cy="187.61"
+                    cx="369.77"
+                    cy="195.20"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="389.97"
-                cy="197.97"
+                cx="376.94"
+                cy="187.61"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -4921,16 +4900,16 @@
             </circle>
         
                 <circle
-                    cx="389.97"
-                    cy="197.97"
+                    cx="376.94"
+                    cy="187.61"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="413.39"
-                cy="189.82"
+                cx="389.97"
+                cy="197.97"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4942,8 +4921,8 @@
             </circle>
         
             <circle
-                cx="421.66"
-                cy="188.06"
+                cx="413.39"
+                cy="189.82"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -4955,16 +4934,16 @@
             </circle>
         
                 <circle
-                    cx="421.66"
-                    cy="188.06"
+                    cx="413.39"
+                    cy="189.82"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="438.72"
-                cy="142.98"
+                cx="421.66"
+                cy="188.06"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4976,8 +4955,8 @@
             </circle>
         
             <circle
-                cx="428.37"
-                cy="176.49"
+                cx="438.72"
+                cy="142.98"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -4989,8 +4968,8 @@
             </circle>
         
             <circle
-                cx="520.16"
-                cy="137.14"
+                cx="428.37"
+                cy="176.49"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -5002,16 +4981,16 @@
             </circle>
         
                 <circle
-                    cx="520.16"
-                    cy="137.14"
+                    cx="428.37"
+                    cy="176.49"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="553.02"
-                cy="121.98"
+                cx="520.16"
+                cy="137.14"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -5023,16 +5002,16 @@
             </circle>
         
                 <circle
-                    cx="553.02"
-                    cy="121.98"
+                    cx="520.16"
+                    cy="137.14"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="512.06"
-                cy="129.38"
+                cx="553.02"
+                cy="121.98"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5044,8 +5023,8 @@
             </circle>
         
             <circle
-                cx="602.97"
-                cy="154.51"
+                cx="512.06"
+                cy="129.38"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5057,8 +5036,8 @@
             </circle>
         
             <circle
-                cx="618.16"
-                cy="125.19"
+                cx="602.97"
+                cy="154.51"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -5070,16 +5049,16 @@
             </circle>
         
                 <circle
-                    cx="618.16"
-                    cy="125.19"
+                    cx="602.97"
+                    cy="154.51"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="590.20"
-                cy="142.26"
+                cx="618.16"
+                cy="125.19"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -5091,16 +5070,16 @@
             </circle>
         
                 <circle
-                    cx="590.20"
-                    cy="142.26"
+                    cx="618.16"
+                    cy="125.19"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="620.73"
-                cy="154.39"
+                cx="590.20"
+                cy="142.26"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5112,8 +5091,8 @@
             </circle>
         
             <circle
-                cx="687.48"
-                cy="163.81"
+                cx="620.73"
+                cy="154.39"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -5125,13 +5104,26 @@
             </circle>
         
                 <circle
-                    cx="687.48"
-                    cy="163.81"
+                    cx="620.73"
+                    cy="154.39"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
+            <circle
+                cx="687.48"
+                cy="163.81"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-07-17:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="658.54"
                 cy="134.00"
@@ -5140,7 +5132,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-07-17:
+                    2026-07-18:
                     0 contributions
                 </title>
             </circle>
@@ -5153,7 +5145,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-07-18:
+                    2026-07-19:
                     0 contributions
                 </title>
             </circle>
@@ -5166,7 +5158,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-07-19:
+                    2026-07-20:
                     0 contributions
                 </title>
             </circle>
@@ -5174,19 +5166,6 @@
             <circle
                 cx="790.80"
                 cy="179.64"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-07-20:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="774.35"
-                cy="147.46"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -5198,16 +5177,16 @@
             </circle>
         
                 <circle
-                    cx="774.35"
-                    cy="147.46"
+                    cx="790.80"
+                    cy="179.64"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="804.33"
-                cy="162.38"
+                cx="774.35"
+                cy="147.46"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -5219,16 +5198,16 @@
             </circle>
         
                 <circle
-                    cx="804.33"
-                    cy="162.38"
+                    cx="774.35"
+                    cy="147.46"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="844.38"
-                cy="192.13"
+                cx="804.33"
+                cy="162.38"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -5240,16 +5219,16 @@
             </circle>
         
                 <circle
-                    cx="844.38"
-                    cy="192.13"
+                    cx="804.33"
+                    cy="162.38"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="812.69"
-                cy="161.64"
+                cx="844.38"
+                cy="192.13"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -5261,16 +5240,16 @@
             </circle>
         
                 <circle
-                    cx="812.69"
-                    cy="161.64"
+                    cx="844.38"
+                    cy="192.13"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="842.39"
-                cy="198.53"
+                cx="812.69"
+                cy="161.64"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -5282,16 +5261,16 @@
             </circle>
         
                 <circle
-                    cx="842.39"
-                    cy="198.53"
+                    cx="812.69"
+                    cy="161.64"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="859.25"
-                cy="203.88"
+                cx="842.39"
+                cy="198.53"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5303,8 +5282,8 @@
             </circle>
         
             <circle
-                cx="855.07"
-                cy="202.90"
+                cx="859.25"
+                cy="203.88"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -5316,16 +5295,16 @@
             </circle>
         
                 <circle
-                    cx="855.07"
-                    cy="202.90"
+                    cx="859.25"
+                    cy="203.88"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="851.22"
-                cy="194.58"
+                cx="855.07"
+                cy="202.90"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -5337,16 +5316,16 @@
             </circle>
         
                 <circle
-                    cx="851.22"
-                    cy="194.58"
+                    cx="855.07"
+                    cy="202.90"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="879.79"
-                cy="257.98"
+                cx="851.22"
+                cy="194.58"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -5358,16 +5337,16 @@
             </circle>
         
                 <circle
-                    cx="879.79"
-                    cy="257.98"
+                    cx="851.22"
+                    cy="194.58"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="883.86"
-                cy="249.34"
+                cx="879.79"
+                cy="257.98"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5379,8 +5358,8 @@
             </circle>
         
             <circle
-                cx="895.34"
-                cy="276.83"
+                cx="883.86"
+                cy="249.34"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -5392,16 +5371,16 @@
             </circle>
         
                 <circle
-                    cx="895.34"
-                    cy="276.83"
+                    cx="883.86"
+                    cy="249.34"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="881.31"
-                cy="290.26"
+                cx="895.34"
+                cy="276.83"
                 r="2.72"
                 fill="#3478ed"
                 opacity="0.71"
@@ -5413,16 +5392,16 @@
             </circle>
         
                 <circle
-                    cx="881.31"
-                    cy="290.26"
+                    cx="895.34"
+                    cy="276.83"
                     r="7.60"
                     fill="#3478ed"
                     opacity="0.06"
                 />
             
             <circle
-                cx="848.25"
-                cy="283.34"
+                cx="881.31"
+                cy="290.26"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5434,8 +5413,8 @@
             </circle>
         
             <circle
-                cx="835.36"
-                cy="244.86"
+                cx="848.25"
+                cy="283.34"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -5447,16 +5426,16 @@
             </circle>
         
                 <circle
-                    cx="835.36"
-                    cy="244.86"
+                    cx="848.25"
+                    cy="283.34"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="801.75"
-                cy="294.68"
+                cx="835.36"
+                cy="244.86"
                 r="4.68"
                 fill="#8b5cf6"
                 opacity="0.91"
@@ -5468,16 +5447,16 @@
             </circle>
         
                 <circle
-                    cx="801.75"
-                    cy="294.68"
+                    cx="835.36"
+                    cy="244.86"
                     r="13.10"
                     fill="#8b5cf6"
                     opacity="0.13"
                 />
             
             <circle
-                cx="825.65"
-                cy="301.48"
+                cx="801.75"
+                cy="294.68"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5489,8 +5468,8 @@
             </circle>
         
             <circle
-                cx="797.16"
-                cy="265.18"
+                cx="825.65"
+                cy="301.48"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5502,8 +5481,8 @@
             </circle>
         
             <circle
-                cx="775.70"
-                cy="312.89"
+                cx="797.16"
+                cy="265.18"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -5515,16 +5494,16 @@
             </circle>
         
                 <circle
-                    cx="775.70"
-                    cy="312.89"
+                    cx="797.16"
+                    cy="265.18"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="736.78"
-                cy="326.85"
+                cx="775.70"
+                cy="312.89"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -5536,16 +5515,16 @@
             </circle>
         
                 <circle
-                    cx="736.78"
-                    cy="326.85"
+                    cx="775.70"
+                    cy="312.89"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="738.75"
-                cy="326.52"
+                cx="736.78"
+                cy="326.85"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -5557,8 +5536,8 @@
             </circle>
         
             <circle
-                cx="691.73"
-                cy="360.54"
+                cx="738.75"
+                cy="326.52"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -5570,13 +5549,26 @@
             </circle>
         
                 <circle
-                    cx="691.73"
-                    cy="360.54"
+                    cx="738.75"
+                    cy="326.52"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
+            <circle
+                cx="691.73"
+                cy="360.54"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-08-11:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="681.86"
                 cy="323.92"
@@ -5585,7 +5577,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-11:
+                    2026-08-12:
                     0 contributions
                 </title>
             </circle>
@@ -5598,7 +5590,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-12:
+                    2026-08-13:
                     0 contributions
                 </title>
             </circle>
@@ -5611,7 +5603,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-13:
+                    2026-08-14:
                     0 contributions
                 </title>
             </circle>
@@ -5624,7 +5616,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-14:
+                    2026-08-15:
                     0 contributions
                 </title>
             </circle>
@@ -5637,7 +5629,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-15:
+                    2026-08-16:
                     0 contributions
                 </title>
             </circle>
@@ -5650,7 +5642,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-16:
+                    2026-08-17:
                     0 contributions
                 </title>
             </circle>
@@ -5663,7 +5655,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-08-17:
+                    2026-08-18:
                     0 contributions
                 </title>
             </circle>
@@ -5671,19 +5663,6 @@
             <circle
                 cx="457.31"
                 cy="334.30"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-08-18:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="442.49"
-                cy="337.95"
                 r="2.48"
                 fill="#3478ed"
                 opacity="0.69"
@@ -5695,16 +5674,16 @@
             </circle>
         
                 <circle
-                    cx="442.49"
-                    cy="337.95"
+                    cx="457.31"
+                    cy="334.30"
                     r="6.96"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="389.43"
-                cy="279.21"
+                cx="442.49"
+                cy="337.95"
                 r="3.18"
                 fill="#00d9ff"
                 opacity="0.76"
@@ -5716,11 +5695,32 @@
             </circle>
         
                 <circle
-                    cx="389.43"
-                    cy="279.21"
+                    cx="442.49"
+                    cy="337.95"
                     r="8.90"
                     fill="#00d9ff"
                     opacity="0.07"
+                />
+            
+            <circle
+                cx="389.43"
+                cy="279.21"
+                r="1.45"
+                fill="#253c83"
+                opacity="0.58"
+            >
+                <title>
+                    2026-08-21:
+                    3 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="389.43"
+                    cy="279.21"
+                    r="4.05"
+                    fill="#253c83"
+                    opacity="0.01"
                 />
             
             <circle
@@ -5731,7 +5731,7 @@
                 opacity="0.58"
             >
                 <title>
-                    2026-08-21:
+                    2026-08-22:
                     3 contributions
                 </title>
             </circle>
@@ -5752,7 +5752,7 @@
                 opacity="0.58"
             >
                 <title>
-                    2026-08-22:
+                    2026-08-23:
                     3 contributions
                 </title>
             </circle>
@@ -5768,27 +5768,6 @@
             <circle
                 cx="342.78"
                 cy="277.29"
-                r="1.45"
-                fill="#253c83"
-                opacity="0.58"
-            >
-                <title>
-                    2026-08-23:
-                    3 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="342.78"
-                    cy="277.29"
-                    r="4.05"
-                    fill="#253c83"
-                    opacity="0.01"
-                />
-            
-            <circle
-                cx="350.41"
-                cy="289.05"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -5800,16 +5779,16 @@
             </circle>
         
                 <circle
-                    cx="350.41"
-                    cy="289.05"
+                    cx="342.78"
+                    cy="277.29"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="311.30"
-                cy="260.53"
+                cx="350.41"
+                cy="289.05"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -5821,16 +5800,16 @@
             </circle>
         
                 <circle
-                    cx="311.30"
-                    cy="260.53"
+                    cx="350.41"
+                    cy="289.05"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="273.44"
-                cy="267.84"
+                cx="311.30"
+                cy="260.53"
                 r="2.02"
                 fill="#3478ed"
                 opacity="0.64"
@@ -5842,16 +5821,16 @@
             </circle>
         
                 <circle
-                    cx="273.44"
-                    cy="267.84"
+                    cx="311.30"
+                    cy="260.53"
                     r="5.66"
                     fill="#3478ed"
                     opacity="0.03"
                 />
             
             <circle
-                cx="281.26"
-                cy="285.32"
+                cx="273.44"
+                cy="267.84"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -5863,11 +5842,32 @@
             </circle>
         
                 <circle
-                    cx="281.26"
-                    cy="285.32"
+                    cx="273.44"
+                    cy="267.84"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
+                />
+            
+            <circle
+                cx="281.26"
+                cy="285.32"
+                r="1.91"
+                fill="#253c83"
+                opacity="0.63"
+            >
+                <title>
+                    2026-08-28:
+                    7 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="281.26"
+                    cy="285.32"
+                    r="5.34"
+                    fill="#253c83"
+                    opacity="0.03"
                 />
             
             <circle
@@ -5878,7 +5878,7 @@
                 opacity="0.63"
             >
                 <title>
-                    2026-08-28:
+                    2026-08-29:
                     7 contributions
                 </title>
             </circle>
@@ -5894,27 +5894,6 @@
             <circle
                 cx="271.41"
                 cy="255.99"
-                r="1.91"
-                fill="#253c83"
-                opacity="0.63"
-            >
-                <title>
-                    2026-08-29:
-                    7 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="271.41"
-                    cy="255.99"
-                    r="5.34"
-                    fill="#253c83"
-                    opacity="0.03"
-                />
-            
-            <circle
-                cx="315.79"
-                cy="203.13"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -5926,16 +5905,16 @@
             </circle>
         
                 <circle
-                    cx="315.79"
-                    cy="203.13"
+                    cx="271.41"
+                    cy="255.99"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="294.15"
-                cy="218.01"
+                cx="315.79"
+                cy="203.13"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -5947,16 +5926,16 @@
             </circle>
         
                 <circle
-                    cx="294.15"
-                    cy="218.01"
+                    cx="315.79"
+                    cy="203.13"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="296.25"
-                cy="204.83"
+                cx="294.15"
+                cy="218.01"
                 r="3.18"
                 fill="#00d9ff"
                 opacity="0.76"
@@ -5968,16 +5947,16 @@
             </circle>
         
                 <circle
-                    cx="296.25"
-                    cy="204.83"
+                    cx="294.15"
+                    cy="218.01"
                     r="8.90"
                     fill="#00d9ff"
                     opacity="0.07"
                 />
             
             <circle
-                cx="341.95"
-                cy="179.10"
+                cx="296.25"
+                cy="204.83"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -5989,16 +5968,16 @@
             </circle>
         
                 <circle
-                    cx="341.95"
-                    cy="179.10"
+                    cx="296.25"
+                    cy="204.83"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="359.31"
-                cy="178.62"
+                cx="341.95"
+                cy="179.10"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -6010,16 +5989,16 @@
             </circle>
         
                 <circle
-                    cx="359.31"
-                    cy="178.62"
+                    cx="341.95"
+                    cy="179.10"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="368.41"
-                cy="149.20"
+                cx="359.31"
+                cy="178.62"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -6031,13 +6010,26 @@
             </circle>
         
                 <circle
-                    cx="368.41"
-                    cy="149.20"
+                    cx="359.31"
+                    cy="178.62"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
+            <circle
+                cx="368.41"
+                cy="149.20"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-09-05:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="326.28"
                 cy="187.15"
@@ -6046,7 +6038,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-09-05:
+                    2026-09-06:
                     0 contributions
                 </title>
             </circle>
@@ -6059,7 +6051,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-09-06:
+                    2026-09-07:
                     0 contributions
                 </title>
             </circle>
@@ -6067,19 +6059,6 @@
             <circle
                 cx="460.54"
                 cy="124.91"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-09-07:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="445.35"
-                cy="118.89"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -6091,16 +6070,16 @@
             </circle>
         
                 <circle
-                    cx="445.35"
-                    cy="118.89"
+                    cx="460.54"
+                    cy="124.91"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="456.93"
-                cy="123.13"
+                cx="445.35"
+                cy="118.89"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -6112,11 +6091,32 @@
             </circle>
         
                 <circle
-                    cx="456.93"
-                    cy="123.13"
+                    cx="445.35"
+                    cy="118.89"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
+                />
+            
+            <circle
+                cx="456.93"
+                cy="123.13"
+                r="1.45"
+                fill="#253c83"
+                opacity="0.58"
+            >
+                <title>
+                    2026-09-10:
+                    3 contributions
+                </title>
+            </circle>
+        
+                <circle
+                    cx="456.93"
+                    cy="123.13"
+                    r="4.05"
+                    fill="#253c83"
+                    opacity="0.01"
                 />
             
             <circle
@@ -6127,7 +6127,7 @@
                 opacity="0.58"
             >
                 <title>
-                    2026-09-10:
+                    2026-09-11:
                     3 contributions
                 </title>
             </circle>
@@ -6143,27 +6143,6 @@
             <circle
                 cx="531.02"
                 cy="107.93"
-                r="1.45"
-                fill="#253c83"
-                opacity="0.58"
-            >
-                <title>
-                    2026-09-11:
-                    3 contributions
-                </title>
-            </circle>
-        
-                <circle
-                    cx="531.02"
-                    cy="107.93"
-                    r="4.05"
-                    fill="#253c83"
-                    opacity="0.01"
-                />
-            
-            <circle
-                cx="608.52"
-                cy="133.90"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -6175,16 +6154,16 @@
             </circle>
         
                 <circle
-                    cx="608.52"
-                    cy="133.90"
+                    cx="531.02"
+                    cy="107.93"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="588.07"
-                cy="120.47"
+                cx="608.52"
+                cy="133.90"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6196,8 +6175,8 @@
             </circle>
         
             <circle
-                cx="605.35"
-                cy="117.53"
+                cx="588.07"
+                cy="120.47"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6209,8 +6188,8 @@
             </circle>
         
             <circle
-                cx="660.55"
-                cy="109.66"
+                cx="605.35"
+                cy="117.53"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6222,16 +6201,16 @@
             </circle>
         
                 <circle
-                    cx="660.55"
-                    cy="109.66"
+                    cx="605.35"
+                    cy="117.53"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="717.34"
-                cy="113.46"
+                cx="660.55"
+                cy="109.66"
                 r="2.83"
                 fill="#3478ed"
                 opacity="0.72"
@@ -6243,16 +6222,16 @@
             </circle>
         
                 <circle
-                    cx="717.34"
-                    cy="113.46"
+                    cx="660.55"
+                    cy="109.66"
                     r="7.93"
                     fill="#3478ed"
                     opacity="0.06"
                 />
             
             <circle
-                cx="740.26"
-                cy="121.54"
+                cx="717.34"
+                cy="113.46"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6264,8 +6243,8 @@
             </circle>
         
             <circle
-                cx="728.22"
-                cy="115.61"
+                cx="740.26"
+                cy="121.54"
                 r="2.14"
                 fill="#3478ed"
                 opacity="0.65"
@@ -6277,16 +6256,16 @@
             </circle>
         
                 <circle
-                    cx="728.22"
-                    cy="115.61"
+                    cx="740.26"
+                    cy="121.54"
                     r="5.99"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="855.69"
-                cy="174.17"
+                cx="728.22"
+                cy="115.61"
                 r="3.18"
                 fill="#00d9ff"
                 opacity="0.76"
@@ -6298,16 +6277,16 @@
             </circle>
         
                 <circle
-                    cx="855.69"
-                    cy="174.17"
+                    cx="728.22"
+                    cy="115.61"
                     r="8.90"
                     fill="#00d9ff"
                     opacity="0.07"
                 />
             
             <circle
-                cx="841.31"
-                cy="150.71"
+                cx="855.69"
+                cy="174.17"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6319,8 +6298,8 @@
             </circle>
         
             <circle
-                cx="855.16"
-                cy="153.09"
+                cx="841.31"
+                cy="150.71"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -6332,16 +6311,16 @@
             </circle>
         
                 <circle
-                    cx="855.16"
-                    cy="153.09"
+                    cx="841.31"
+                    cy="150.71"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="869.94"
-                cy="164.20"
+                cx="855.16"
+                cy="153.09"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -6353,16 +6332,16 @@
             </circle>
         
                 <circle
-                    cx="869.94"
-                    cy="164.20"
+                    cx="855.16"
+                    cy="153.09"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="877.95"
-                cy="159.54"
+                cx="869.94"
+                cy="164.20"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6374,16 +6353,16 @@
             </circle>
         
                 <circle
-                    cx="877.95"
-                    cy="159.54"
+                    cx="869.94"
+                    cy="164.20"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="877.18"
-                cy="170.41"
+                cx="877.95"
+                cy="159.54"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -6395,16 +6374,16 @@
             </circle>
         
                 <circle
-                    cx="877.18"
-                    cy="170.41"
+                    cx="877.95"
+                    cy="159.54"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="874.57"
-                cy="164.05"
+                cx="877.18"
+                cy="170.41"
                 r="2.60"
                 fill="#3478ed"
                 opacity="0.70"
@@ -6416,16 +6395,16 @@
             </circle>
         
                 <circle
-                    cx="874.57"
-                    cy="164.05"
+                    cx="877.18"
+                    cy="170.41"
                     r="7.28"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="899.92"
-                cy="206.74"
+                cx="874.57"
+                cy="164.05"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -6437,16 +6416,16 @@
             </circle>
         
                 <circle
-                    cx="899.92"
-                    cy="206.74"
+                    cx="874.57"
+                    cy="164.05"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="940.19"
-                cy="232.82"
+                cx="899.92"
+                cy="206.74"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6458,8 +6437,8 @@
             </circle>
         
             <circle
-                cx="936.17"
-                cy="221.88"
+                cx="940.19"
+                cy="232.82"
                 r="2.02"
                 fill="#3478ed"
                 opacity="0.64"
@@ -6471,16 +6450,16 @@
             </circle>
         
                 <circle
-                    cx="936.17"
-                    cy="221.88"
+                    cx="940.19"
+                    cy="232.82"
                     r="5.66"
                     fill="#3478ed"
                     opacity="0.03"
                 />
             
             <circle
-                cx="899.78"
-                cy="207.90"
+                cx="936.17"
+                cy="221.88"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -6492,16 +6471,16 @@
             </circle>
         
                 <circle
-                    cx="899.78"
-                    cy="207.90"
+                    cx="936.17"
+                    cy="221.88"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="905.00"
-                cy="226.58"
+                cx="899.78"
+                cy="207.90"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6513,16 +6492,16 @@
             </circle>
         
                 <circle
-                    cx="905.00"
-                    cy="226.58"
+                    cx="899.78"
+                    cy="207.90"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="933.94"
-                cy="273.53"
+                cx="905.00"
+                cy="226.58"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -6534,16 +6513,16 @@
             </circle>
         
                 <circle
-                    cx="933.94"
-                    cy="273.53"
+                    cx="905.00"
+                    cy="226.58"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="892.70"
-                cy="301.47"
+                cx="933.94"
+                cy="273.53"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -6555,16 +6534,16 @@
             </circle>
         
                 <circle
-                    cx="892.70"
-                    cy="301.47"
+                    cx="933.94"
+                    cy="273.53"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="870.29"
-                cy="270.72"
+                cx="892.70"
+                cy="301.47"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -6576,16 +6555,16 @@
             </circle>
         
                 <circle
-                    cx="870.29"
-                    cy="270.72"
+                    cx="892.70"
+                    cy="301.47"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="872.77"
-                cy="320.51"
+                cx="870.29"
+                cy="270.72"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6597,8 +6576,8 @@
             </circle>
         
             <circle
-                cx="875.15"
-                cy="331.81"
+                cx="872.77"
+                cy="320.51"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6610,16 +6589,16 @@
             </circle>
         
                 <circle
-                    cx="875.15"
-                    cy="331.81"
+                    cx="872.77"
+                    cy="320.51"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="796.61"
-                cy="300.86"
+                cx="875.15"
+                cy="331.81"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6631,8 +6610,8 @@
             </circle>
         
             <circle
-                cx="837.20"
-                cy="352.00"
+                cx="796.61"
+                cy="300.86"
                 r="1.79"
                 fill="#253c83"
                 opacity="0.62"
@@ -6644,16 +6623,16 @@
             </circle>
         
                 <circle
-                    cx="837.20"
-                    cy="352.00"
+                    cx="796.61"
+                    cy="300.86"
                     r="5.02"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="704.21"
-                cy="334.19"
+                cx="837.20"
+                cy="352.00"
                 r="2.02"
                 fill="#3478ed"
                 opacity="0.64"
@@ -6665,16 +6644,16 @@
             </circle>
         
                 <circle
-                    cx="704.21"
-                    cy="334.19"
+                    cx="837.20"
+                    cy="352.00"
                     r="5.66"
                     fill="#3478ed"
                     opacity="0.03"
                 />
             
             <circle
-                cx="731.29"
-                cy="307.93"
+                cx="704.21"
+                cy="334.19"
                 r="2.37"
                 fill="#3478ed"
                 opacity="0.68"
@@ -6686,16 +6665,16 @@
             </circle>
         
                 <circle
-                    cx="731.29"
-                    cy="307.93"
+                    cx="704.21"
+                    cy="334.19"
                     r="6.63"
                     fill="#3478ed"
                     opacity="0.05"
                 />
             
             <circle
-                cx="721.67"
-                cy="354.05"
+                cx="731.29"
+                cy="307.93"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -6707,16 +6686,16 @@
             </circle>
         
                 <circle
-                    cx="721.67"
-                    cy="354.05"
+                    cx="731.29"
+                    cy="307.93"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="661.77"
-                cy="372.37"
+                cx="721.67"
+                cy="354.05"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6728,8 +6707,8 @@
             </circle>
         
             <circle
-                cx="674.71"
-                cy="371.60"
+                cx="661.77"
+                cy="372.37"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -6741,16 +6720,16 @@
             </circle>
         
                 <circle
-                    cx="674.71"
-                    cy="371.60"
+                    cx="661.77"
+                    cy="372.37"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="637.82"
-                cy="342.10"
+                cx="674.71"
+                cy="371.60"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6762,16 +6741,16 @@
             </circle>
         
                 <circle
-                    cx="637.82"
-                    cy="342.10"
+                    cx="674.71"
+                    cy="371.60"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="540.70"
-                cy="398.03"
+                cx="637.82"
+                cy="342.10"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -6783,16 +6762,16 @@
             </circle>
         
                 <circle
-                    cx="540.70"
-                    cy="398.03"
+                    cx="637.82"
+                    cy="342.10"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="569.39"
-                cy="375.04"
+                cx="540.70"
+                cy="398.03"
                 r="2.25"
                 fill="#3478ed"
                 opacity="0.67"
@@ -6804,16 +6783,16 @@
             </circle>
         
                 <circle
-                    cx="569.39"
-                    cy="375.04"
+                    cx="540.70"
+                    cy="398.03"
                     r="6.31"
                     fill="#3478ed"
                     opacity="0.04"
                 />
             
             <circle
-                cx="499.19"
-                cy="377.03"
+                cx="569.39"
+                cy="375.04"
                 r="1.91"
                 fill="#253c83"
                 opacity="0.63"
@@ -6825,16 +6804,16 @@
             </circle>
         
                 <circle
-                    cx="499.19"
-                    cy="377.03"
+                    cx="569.39"
+                    cy="375.04"
                     r="5.34"
                     fill="#253c83"
                     opacity="0.03"
                 />
             
             <circle
-                cx="464.99"
-                cy="396.25"
+                cx="499.19"
+                cy="377.03"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -6846,16 +6825,16 @@
             </circle>
         
                 <circle
-                    cx="464.99"
-                    cy="396.25"
+                    cx="499.19"
+                    cy="377.03"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="377.15"
-                cy="360.77"
+                cx="464.99"
+                cy="396.25"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6867,8 +6846,8 @@
             </circle>
         
             <circle
-                cx="408.96"
-                cy="359.78"
+                cx="377.15"
+                cy="360.77"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -6880,16 +6859,16 @@
             </circle>
         
                 <circle
-                    cx="408.96"
-                    cy="359.78"
+                    cx="377.15"
+                    cy="360.77"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="331.22"
-                cy="333.09"
+                cx="408.96"
+                cy="359.78"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6901,8 +6880,8 @@
             </circle>
         
             <circle
-                cx="316.41"
-                cy="326.72"
+                cx="331.22"
+                cy="333.09"
                 r="1.56"
                 fill="#253c83"
                 opacity="0.60"
@@ -6914,16 +6893,16 @@
             </circle>
         
                 <circle
-                    cx="316.41"
-                    cy="326.72"
+                    cx="331.22"
+                    cy="333.09"
                     r="4.37"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="295.86"
-                cy="310.90"
+                cx="316.41"
+                cy="326.72"
                 r="1.33"
                 fill="#253c83"
                 opacity="0.57"
@@ -6935,16 +6914,16 @@
             </circle>
         
                 <circle
-                    cx="295.86"
-                    cy="310.90"
+                    cx="316.41"
+                    cy="326.72"
                     r="3.73"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
             <circle
-                cx="238.19"
-                cy="322.99"
+                cx="295.86"
+                cy="310.90"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -6956,8 +6935,8 @@
             </circle>
         
             <circle
-                cx="276.77"
-                cy="278.17"
+                cx="238.19"
+                cy="322.99"
                 r="1.45"
                 fill="#253c83"
                 opacity="0.58"
@@ -6969,13 +6948,26 @@
             </circle>
         
                 <circle
-                    cx="276.77"
-                    cy="278.17"
+                    cx="238.19"
+                    cy="322.99"
                     r="4.05"
                     fill="#253c83"
                     opacity="0.01"
                 />
             
+            <circle
+                cx="276.77"
+                cy="278.17"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-10-25:
+                    0 contributions
+                </title>
+            </circle>
+        
             <circle
                 cx="246.26"
                 cy="249.33"
@@ -6984,7 +6976,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-25:
+                    2026-10-26:
                     0 contributions
                 </title>
             </circle>
@@ -6997,7 +6989,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-26:
+                    2026-10-27:
                     0 contributions
                 </title>
             </circle>
@@ -7010,7 +7002,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-27:
+                    2026-10-28:
                     0 contributions
                 </title>
             </circle>
@@ -7023,7 +7015,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-28:
+                    2026-10-29:
                     0 contributions
                 </title>
             </circle>
@@ -7036,7 +7028,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-29:
+                    2026-10-30:
                     0 contributions
                 </title>
             </circle>
@@ -7049,7 +7041,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-30:
+                    2026-10-31:
                     0 contributions
                 </title>
             </circle>
@@ -7062,7 +7054,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-10-31:
+                    2026-11-01:
                     0 contributions
                 </title>
             </circle>
@@ -7075,7 +7067,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-01:
+                    2026-11-02:
                     0 contributions
                 </title>
             </circle>
@@ -7088,7 +7080,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-02:
+                    2026-11-03:
                     0 contributions
                 </title>
             </circle>
@@ -7101,7 +7093,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-03:
+                    2026-11-04:
                     0 contributions
                 </title>
             </circle>
@@ -7114,7 +7106,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-04:
+                    2026-11-05:
                     0 contributions
                 </title>
             </circle>
@@ -7127,7 +7119,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-05:
+                    2026-11-06:
                     0 contributions
                 </title>
             </circle>
@@ -7140,7 +7132,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-06:
+                    2026-11-07:
                     0 contributions
                 </title>
             </circle>
@@ -7153,7 +7145,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-07:
+                    2026-11-08:
                     0 contributions
                 </title>
             </circle>
@@ -7166,7 +7158,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-08:
+                    2026-11-09:
                     0 contributions
                 </title>
             </circle>
@@ -7179,7 +7171,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-09:
+                    2026-11-10:
                     0 contributions
                 </title>
             </circle>
@@ -7192,7 +7184,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-10:
+                    2026-11-11:
                     0 contributions
                 </title>
             </circle>
@@ -7205,7 +7197,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-11:
+                    2026-11-12:
                     0 contributions
                 </title>
             </circle>
@@ -7218,7 +7210,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-12:
+                    2026-11-13:
                     0 contributions
                 </title>
             </circle>
@@ -7231,7 +7223,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-13:
+                    2026-11-14:
                     0 contributions
                 </title>
             </circle>
@@ -7244,7 +7236,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-14:
+                    2026-11-15:
                     0 contributions
                 </title>
             </circle>
@@ -7257,7 +7249,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-15:
+                    2026-11-16:
                     0 contributions
                 </title>
             </circle>
@@ -7270,7 +7262,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-16:
+                    2026-11-17:
                     0 contributions
                 </title>
             </circle>
@@ -7283,7 +7275,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-17:
+                    2026-11-18:
                     0 contributions
                 </title>
             </circle>
@@ -7296,7 +7288,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-18:
+                    2026-11-19:
                     0 contributions
                 </title>
             </circle>
@@ -7309,7 +7301,7 @@
                 opacity="0.35"
             >
                 <title>
-                    2026-11-19:
+                    2026-11-20:
                     0 contributions
                 </title>
             </circle>
@@ -7317,19 +7309,6 @@
             <circle
                 cx="886.31"
                 cy="150.89"
-                r="0.70"
-                fill="#35405e"
-                opacity="0.35"
-            >
-                <title>
-                    2026-11-20:
-                    0 contributions
-                </title>
-            </circle>
-        
-            <circle
-                cx="891.61"
-                cy="147.67"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -7341,16 +7320,16 @@
             </circle>
         
                 <circle
-                    cx="891.61"
-                    cy="147.67"
+                    cx="886.31"
+                    cy="150.89"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="926.11"
-                cy="160.93"
+                cx="891.61"
+                cy="147.67"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -7362,8 +7341,8 @@
             </circle>
         
             <circle
-                cx="1005.84"
-                cy="221.15"
+                cx="926.11"
+                cy="160.93"
                 r="1.68"
                 fill="#253c83"
                 opacity="0.61"
@@ -7375,16 +7354,16 @@
             </circle>
         
                 <circle
-                    cx="1005.84"
-                    cy="221.15"
+                    cx="926.11"
+                    cy="160.93"
                     r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
             <circle
-                cx="938.51"
-                cy="160.88"
+                cx="1005.84"
+                cy="221.15"
                 r="0.70"
                 fill="#35405e"
                 opacity="0.35"
@@ -7396,8 +7375,8 @@
             </circle>
         
             <circle
-                cx="1009.47"
-                cy="245.16"
+                cx="938.51"
+                cy="160.88"
                 r="1.22"
                 fill="#253c83"
                 opacity="0.56"
@@ -7409,16 +7388,16 @@
             </circle>
         
                 <circle
-                    cx="1009.47"
-                    cy="245.16"
+                    cx="938.51"
+                    cy="160.88"
                     r="3.40"
                     fill="#253c83"
                     opacity="0.00"
                 />
             
             <circle
-                cx="957.12"
-                cy="201.39"
+                cx="1009.47"
+                cy="245.16"
                 r="5.60"
                 fill="#c084fc"
                 opacity="1.00"
@@ -7430,34 +7409,47 @@
             </circle>
         
                 <circle
-                    cx="957.12"
-                    cy="201.39"
+                    cx="1009.47"
+                    cy="245.16"
                     r="15.68"
                     fill="#c084fc"
                     opacity="0.16"
                 />
             
             <circle
-                cx="949.46"
-                cy="199.19"
-                r="1.56"
+                cx="957.12"
+                cy="201.39"
+                r="1.68"
                 fill="#253c83"
-                opacity="0.60"
+                opacity="0.61"
             >
                 <title>
                     2026-11-27:
-                    4 contributions
+                    5 contributions
                 </title>
             </circle>
         
                 <circle
-                    cx="949.46"
-                    cy="199.19"
-                    r="4.37"
+                    cx="957.12"
+                    cy="201.39"
+                    r="4.70"
                     fill="#253c83"
                     opacity="0.02"
                 />
             
+            <circle
+                cx="949.46"
+                cy="199.19"
+                r="0.70"
+                fill="#35405e"
+                opacity="0.35"
+            >
+                <title>
+                    2026-11-28:
+                    0 contributions
+                </title>
+            </circle>
+        
         </g>
 
         <!-- Central galaxy core -->
@@ -7509,7 +7501,7 @@
             fill="#ffffff"
             text-anchor="end"
         >
-            980
+            977
         </text>
 
         <text
